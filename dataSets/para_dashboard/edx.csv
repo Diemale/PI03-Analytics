@@ -1,0 +1,856 @@
+name,students,course_type,institution,is_university,level,subject,hours_per_week,weeks,total_effort,price
+how to learn online,124980,self-paced on your time,edx,0,beginner,education & teacher training,2.5,2.0,5.0,49
+programming for everybody (getting started with python),293864,self-paced on your time,the university of michigan,1,beginner,computer science,3.0,7.0,21.0,49
+cs50's introduction to computer science,2442271,self-paced on your time,harvard university,1,beginner,computer science,12.0,12.0,144.0,90
+the analytics edge,129555,instructor-led on a course schedule,massachusetts institute of technology,1,intermediate,data analysis & statistics,12.5,13.0,162.5,199
+marketing analytics: marketing measurement strategy,81140,self-paced on your time,"university of california, berkeley",1,beginner,computer science,6.0,4.0,24.0,249
+introduction to project management,301793,self-paced on your time,university of adelaide,1,beginner,business & management,2.5,6.0,15.0,199
+leading high-performing teams,32847,self-paced on your time,the university of queensland,1,intermediate,communication,9.0,10.0,90.0,5
+the foundations of happiness at work,67073,self-paced on your time,"university of california, berkeley",1,beginner,business & management,2.5,4.0,10.0,199
+"managing study, stress and mental health at university",23061,self-paced on your time,curtin university,1,beginner,health & safety,2.0,2.0,4.0,49
+six sigma: define and measure,92411,self-paced on your time,technische universität münchen,1,beginner,business & management,3.5,8.0,28.0,99
+fat chance: probability from the ground up,66835,self-paced on your time,harvard university,1,beginner,math,4.0,7.0,28.0,49
+chasing your dream: how to end procrastination and get a job you love,44711,self-paced on your time,national research nuclear university,1,beginner,communication,4.0,5.0,20.0,49
+bitcoin and cryptocurrencies,83398,self-paced on your time,"university of california, berkeley",1,beginner,computer science,4.0,6.0,24.0,99
+ethics in action,6366,self-paced on your time,sdg academy,0,intermediate,ethics,3.0,10.0,30.0,49
+introduction to fintech,72767,self-paced on your time,university of hong kong,1,beginner,economics & finance,2.0,6.0,12.0,199
+data science: r basics,528782,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+python basics for data science,228809,self-paced on your time,ibm,0,beginner,data analysis & statistics,3.5,5.0,17.5,39
+the science of beer,39085,self-paced on your time,wageningen university & research,1,beginner,food & nutrition,3.0,6.0,18.0,49
+strategic social media marketing,103640,instructor-led on a course schedule,boston university,1,expert,business & management,5.0,6.0,30.0,399
+cs50's introduction to artificial intelligence with python,258006,self-paced on your time,harvard university,1,beginner,computer science,20.0,7.0,140.0,199
+cs50's introduction to game development,346748,self-paced on your time,harvard university,1,intermediate,computer science,7.5,12.0,90.0,149
+rhetoric: the art of persuasive writing and public speaking,320225,self-paced on your time,harvard university,1,beginner,humanities,2.5,8.0,20.0,99
+cs50's web programming with python and javascript,698950,self-paced on your time,harvard university,1,intermediate,computer science,7.5,12.0,90.0,90
+contract law: from trust to promise to contract,414181,self-paced on your time,harvard university,1,intermediate,business & management,4.5,8.0,36.0,125
+"fundamentals of neuroscience, part 1: the electrical properties of the neuron",380167,self-paced on your time,harvard university,1,beginner,biology & life sciences,4.0,5.0,20.0,99
+justice,392588,self-paced on your time,harvard university,1,beginner,humanities,4.5,12.0,54.0,99
+data science: machine learning,276209,self-paced on your time,harvard university,1,beginner,data analysis & statistics,3.0,8.0,24.0,49
+child protection: children's rights in theory and practice,212453,self-paced on your time,harvard university,1,beginner,social sciences,4.0,16.0,64.0,99
+ielts academic test preparation,1103777,self-paced on your time,the university of queensland,1,beginner,communication,7.5,8.0,60.0,99
+the architectural imagination,406181,self-paced on your time,harvard university,1,beginner,architecture,4.0,10.0,40.0,99
+toefl® test preparation: the insider’s guide,1022489,self-paced on your time,educational testing service,0,beginner,communication,3.0,6.0,18.0,49
+principles of biochemistry,257600,self-paced on your time,harvard university,1,intermediate,medicine,5.0,15.0,75.0,199
+using python for research,262183,self-paced on your time,harvard university,1,intermediate,computer science,3.0,12.0,36.0,99
+hinduism through its scriptures,140782,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+basic spanish 1: getting started,400169,self-paced on your time,universitat politècnica de valencia,0,beginner,communication,4.5,7.0,31.5,40
+the health effects of climate change,110024,self-paced on your time,harvard university,1,beginner,environmental studies,4.0,7.0,28.0,99
+inglés básico: conversacional y networking,79671,self-paced on your time,universidades anáhuac,1,beginner,business & management,6.5,4.0,26.0,49
+statistics and r,314586,self-paced on your time,harvard university,1,intermediate,data analysis & statistics,3.0,4.0,12.0,249
+science & cooking: from haute cuisine to soft matter science (chemistry),145011,self-paced on your time,harvard university,1,beginner,chemistry,2.5,16.0,40.0,199
+pyramids of giza: ancient egyptian art and archaeology,123870,self-paced on your time,harvard university,1,beginner,art & culture,3.0,8.0,24.0,99
+"predictionx: omens, oracles & prophecies",91566,self-paced on your time,harvard university,1,beginner,social sciences,4.0,1.0,4.0,25
+excel: fundamentos y herramientas,284279,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,3.5,8.0,28.0,50
+lessons from ebola: preventing the next pandemic,91983,self-paced on your time,harvard university,1,beginner,social sciences,4.0,4.0,16.0,49
+improving global health: focusing on quality and safety,127353,self-paced on your time,harvard university,1,intermediate,social sciences,3.0,10.0,30.0,99
+cs50 for lawyers,87336,self-paced on your time,harvard university,1,beginner,computer science,4.5,10.0,45.0,99
+data science: visualization,171258,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+christianity through its scriptures,125051,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+the science of happiness,475614,self-paced on your time,"university of california, berkeley",1,beginner,social sciences,4.5,11.0,49.5,169
+leaders of learning,231131,self-paced on your time,harvard university,1,beginner,communication,3.0,10.0,30.0,99
+exercising leadership: foundational principles,57814,self-paced on your time,harvard university,1,beginner,business & management,2.5,4.0,10.0,99
+data science: probability,135859,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+introduction to data wise: a collaborative process to improve learning & teaching,117410,self-paced on your time,harvard university,1,intermediate,education & teacher training,1.5,10.0,15.0,70
+"prescription drug regulation, cost, and access: current controversies in context",80082,self-paced on your time,harvard university,1,beginner,medicine,3.5,8.0,28.0,99
+introduction to family engagement in education,105146,self-paced on your time,harvard university,1,beginner,education & teacher training,3.0,6.0,18.0,70
+italian language and culture: beginner (2019-2020),182462,self-paced on your time,wellesley college,1,beginner,language,3.5,12.0,42.0,49
+steps in japanese for beginners1 part1,53630,self-paced on your time,waseda university,1,beginner,language,4.0,5.0,20.0,49
+how to write an essay,306787,self-paced on your time,"university of california, berkeley",1,beginner,humanities,5.5,5.0,27.5,49
+energy within environmental constraints,95324,self-paced on your time,harvard university,1,beginner,environmental studies,4.0,10.0,40.0,99
+introduction to probability,97291,self-paced on your time,harvard university,1,intermediate,data analysis & statistics,7.5,10.0,75.0,99
+anatomyx: musculoskeletal cases,102075,self-paced on your time,harvard university,1,intermediate,medicine,4.5,7.0,31.5,99
+data science: inference and modeling,88256,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+strengthening community health worker programs,58626,self-paced on your time,harvard university,1,beginner,health & safety,3.0,6.0,18.0,79
+buddhism through its scriptures,182295,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+introduction to linux,642088,self-paced on your time,the linux foundation,0,beginner,computer science,6.0,14.0,84.0,199
+"bioethics: the law, medicine, and ethics of reproductive technologies and genetics",81221,self-paced on your time,harvard university,1,beginner,medicine,1.5,10.0,15.0,99
+shakespeare's life and work,48938,self-paced on your time,harvard university,1,beginner,humanities,6.0,4.0,24.0,49
+marketing digital: content & community manager,112623,self-paced on your time,universidad galileo,1,beginner,communication,3.5,5.0,17.5,49
+accounting and finance,88243,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,3.0,11.0,33.0,150
+computing in python i: fundamentals and procedural programming,141966,self-paced on your time,the georgia institute of technology,1,beginner,computer science,9.5,5.0,47.5,99
+"nutrition, exercise and sports",51679,self-paced on your time,wageningen university & research,1,intermediate,food & nutrition,6.0,6.0,36.0,49
+becoming an entrepreneur,104760,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,2.0,6.0,12.0,69
+"religion, conflict and peace",74060,self-paced on your time,harvard university,1,beginner,humanities,6.0,8.0,48.0,49
+"tangible things: discovering history through artworks, artifacts, scientific specimens, and the stuff around you",61139,self-paced on your time,harvard university,1,beginner,humanities,2.0,10.0,20.0,49
+academic and business writing,322701,self-paced on your time,"university of california, berkeley",1,beginner,communication,4.0,6.0,24.0,49
+data science: capstone,62803,self-paced on your time,harvard university,1,beginner,data analysis & statistics,17.5,2.0,35.0,99
+basics of computing and programming,37045,self-paced on your time,new york university,1,beginner,computer science,7.0,9.0,63.0,200
+"fundamentals of neuroscience, part 2: neurons and networks",84874,self-paced on your time,harvard university,1,beginner,biology & life sciences,4.0,6.0,24.0,99
+successful negotiation: essential strategies and skills,31369,self-paced on your time,the university of michigan,1,beginner,business & management,3.0,7.0,21.0,49
+data science: linear regression,75310,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+html5 and css fundamentals,335895,self-paced on your time,the world wide web consortium (w3c),0,beginner,computer science,5.0,6.0,30.0,199
+data science: productivity tools,66683,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+introduction to corporate finance,98093,self-paced on your time,columbia university,1,beginner,business & management,3.5,4.0,14.0,225
+computer science 101,39540,self-paced on your time,stanford university,1,beginner,computer science,5.0,6.0,30.0,149
+data science: wrangling,64584,self-paced on your time,harvard university,1,beginner,data analysis & statistics,1.5,8.0,12.0,49
+a hands-on introduction to engineering simulations,187138,self-paced on your time,cornell university,1,intermediate,engineering,5.0,6.0,30.0,199
+ai for everyone: master the basics,49340,self-paced on your time,ibm,0,beginner,computer science,1.5,4.0,6.0,49
+the psychology of criminal justice,110086,self-paced on your time,the university of queensland,1,beginner,humanities,1.5,8.0,12.0,99
+machine learning with python: a practical introduction,80161,self-paced on your time,ibm,0,beginner,data analysis & statistics,5.0,5.0,25.0,39
+analyzing data with python,94079,self-paced on your time,ibm,0,beginner,data analysis & statistics,3.0,5.0,15.0,39
+excel: gestión de datos,111785,self-paced on your time,universitat politècnica de valencia,0,intermediate,computer science,5.0,6.0,30.0,75
+probability - the science of uncertainty and data,205615,instructor-led on a course schedule,massachusetts institute of technology,1,expert,data analysis & statistics,12.0,16.0,192.0,300
+"fundamentals of neuroscience, part 3: the brain",85034,self-paced on your time,harvard university,1,beginner,biology & life sciences,4.0,8.0,32.0,99
+sikhism through its scriptures,44125,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+upper-intermediate english: business and modern life,77991,self-paced on your time,universitat politècnica de valencia,0,intermediate,language,4.0,4.0,16.0,50
+introduction to probability,97291,self-paced on your time,harvard university,1,intermediate,data analysis & statistics,7.5,10.0,75.0,99
+religious literacy: traditions and scriptures,96972,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+programación para todos (empezando con python),81004,self-paced on your time,the university of michigan,1,beginner,computer science,3.0,7.0,21.0,49
+analyzing and visualizing data with power bi,28879,self-paced on your time,davidson college,1,beginner,data analysis & statistics,15.0,4.0,60.0,99
+high-dimensional data analysis,78443,self-paced on your time,harvard university,1,expert,data analysis & statistics,3.0,4.0,12.0,149
+introduction to music theory,67029,self-paced on your time,berklee college of music,1,beginner,humanities,4.0,6.0,24.0,49
+human anatomy,126850,self-paced on your time,the hong kong polytechnic university,1,beginner,medicine,3.0,8.0,24.0,139
+"citiesx: the past, present and future of urban life",76874,self-paced on your time,harvard university,1,beginner,social sciences,6.0,11.0,66.0,99
+the path to happiness: what chinese philosophy teaches us about the good life,24208,self-paced on your time,harvard university,1,beginner,philosophy & ethics,1.5,13.0,19.5,99
+entrepreneurship 101: who is your customer?,41838,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,3.0,10.0,30.0,49
+"u.s. public policy: social, economic, and foreign policies",44045,self-paced on your time,harvard university,1,beginner,social sciences,3.0,4.0,12.0,49
+machine learning with python: from linear models to deep learning,85561,instructor-led on a course schedule,massachusetts institute of technology,1,expert,computer science,12.0,15.0,180.0,300
+introduction to data science,43766,self-paced on your time,ibm,0,beginner,data analysis & statistics,4.5,6.0,27.0,39
+circuits and electronics 1: basic circuit analysis,52639,self-paced on your time,massachusetts institute of technology,1,beginner,electronics,6.0,5.0,30.0,169
+introduction to investments,91788,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,4.0,5.0,20.0,50
+improving your business through a culture of health,54136,self-paced on your time,harvard university,1,beginner,business & management,2.0,9.0,18.0,99
+introduction to linear models and matrix algebra,92004,self-paced on your time,harvard university,1,intermediate,math,3.0,4.0,12.0,149
+do your venture: entrepreneurship for everyone,61989,self-paced on your time,indian institute of management bangalore,1,beginner,business & management,3.5,6.0,21.0,150
+el valor de la creatividad y la innovación: la economía naranja,23728,self-paced on your time,inter-american development bank,0,beginner,art & culture,3.0,8.0,24.0,25
+humanitarian response to conflict and disaster,119891,self-paced on your time,harvard university,1,beginner,health & safety,3.5,5.0,17.5,99
+"women making history: ten objects, many stories",38939,self-paced on your time,harvard university,1,beginner,history,2.5,8.0,20.0,99
+masterpieces of world literature,88789,self-paced on your time,harvard university,1,beginner,literature,6.0,12.0,72.0,149
+sql for data science,39184,self-paced on your time,ibm,0,beginner,data analysis & statistics,3.0,4.0,12.0,39
+el cerebro y las emociones en el lenguaje,41279,self-paced on your time,universidad del rosario,1,beginner,communication,4.5,5.0,22.5,49
+science & cooking: from haute cuisine to soft matter science (physics),62673,self-paced on your time,harvard university,1,beginner,physics,2.5,16.0,40.0,169
+python: aprender a programar,21613,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,3.5,8.0,28.0,49
+marketing analytics: competitive analysis and market segmentation,70682,self-paced on your time,"university of california, berkeley",1,intermediate,computer science,6.0,4.0,24.0,249
+malariax: defeating malaria from the genes to the globe,37598,self-paced on your time,harvard university,1,intermediate,biology & life sciences,4.0,8.0,32.0,49
+entrepreneurship in emerging economies,113602,self-paced on your time,harvard university,1,beginner,business & management,4.0,6.0,24.0,125
+javascript introduction,160112,self-paced on your time,the world wide web consortium (w3c),0,beginner,computer science,7.0,5.0,35.0,199
+people management,113592,self-paced on your time,indian institute of management bangalore,1,beginner,business & management,3.0,6.0,18.0,150
+using email for networking in english,57208,self-paced on your time,university of washington,1,beginner,language,4.0,4.0,16.0,149
+databases: relational databases and sql,20502,self-paced on your time,stanford university,1,beginner,computer science,9.0,2.0,18.0,50
+c programming: getting started,104108,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,beginner,computer science,3.0,7.0,21.0,49
+supply chain analytics,145049,instructor-led on a course schedule,massachusetts institute of technology,1,beginner,business & management,10.0,15.0,150.0,199
+programming for the web with javascript,91406,self-paced on your time,university of pennsylvania,1,intermediate,computer science,7.0,4.0,28.0,149
+introduction to digital humanities,37501,self-paced on your time,harvard university,1,beginner,humanities,3.0,7.0,21.0,99
+upper-intermediate english: business and industry,103704,self-paced on your time,universitat politècnica de valencia,0,intermediate,language,4.0,4.0,16.0,50
+emsat english preparation - level 1,29101,self-paced on your time,united arab emirates university,1,beginner,language,2.5,6.0,15.0,49
+python for data science,266978,self-paced on your time,"the university of california, san diego",1,expert,data analysis & statistics,9.0,10.0,90.0,350
+empathy and emotional intelligence at work,45867,self-paced on your time,"university of california, berkeley",1,beginner,business & management,1.5,4.0,6.0,199
+design thinking and creativity for innovation,47549,self-paced on your time,the university of queensland,1,intermediate,business & management,9.0,10.0,90.0,5
+china and communism,69104,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+mandarin chinese level 1,56040,self-paced on your time,mandarinx,0,beginner,language,7.0,6.0,42.0,149
+introduction to biology - the secret of life,147512,instructor-led on a course schedule,massachusetts institute of technology,1,beginner,biology & life sciences,7.5,16.0,120.0,150
+photoshop: una herramienta para presentaciones innovadoras,22969,self-paced on your time,pontificia universidad javeriana,1,beginner,art & culture,9.0,5.0,45.0,19
+causal diagrams: draw your assumptions before your conclusions,50949,self-paced on your time,harvard university,1,beginner,data analysis & statistics,2.5,9.0,22.5,99
+生活英语听说 | conversational english skills,301585,self-paced on your time,tsinghua university,1,beginner,communication,3.0,10.0,30.0,49
+shakespeare’s othello: the moor,31868,self-paced on your time,harvard university,1,beginner,humanities,6.0,4.0,24.0,49
+basic spanish 2: one step further,67687,self-paced on your time,universitat politècnica de valencia,0,beginner,language,4.5,4.0,18.0,50
+financial market analysis,37452,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,9.0,7.0,63.0,25
+cs50's computer science for business professionals,73208,self-paced on your time,harvard university,1,beginner,computer science,4.0,6.0,24.0,90
+gobierno digital,18883,self-paced on your time,inter-american development bank,0,beginner,social sciences,1.5,8.0,12.0,25
+upper-intermediate english: business and globalization,58532,self-paced on your time,universitat politècnica de valencia,0,intermediate,language,4.0,4.0,16.0,50
+the opioid crisis in america,54805,self-paced on your time,harvard university,1,beginner,medicine,1.5,10.0,15.0,99
+gestión de proyectos de desarrollo,306286,self-paced on your time,inter-american development bank,0,beginner,business & management,3.5,10.0,35.0,49
+statistical learning,27968,self-paced on your time,stanford university,1,beginner,data analysis & statistics,4.0,9.0,36.0,50
+introduction to social psychology,79365,self-paced on your time,the university of queensland,1,beginner,humanities,1.5,7.0,10.5,99
+artificial intelligence (ai),265104,instructor-led on a course schedule,columbia university,1,expert,computer science,9.0,12.0,108.0,249
+american government: constitutional foundations,35504,self-paced on your time,harvard university,1,beginner,social sciences,3.0,4.0,12.0,49
+introducción a la inversión bursátil,64261,self-paced on your time,universitat politècnica de valencia,0,beginner,economics & finance,3.5,2.0,7.0,50
+japanese books: from manuscript to print,17581,self-paced on your time,harvard university,1,beginner,art & culture,1.5,9.0,13.5,100
+foundations of modern finance  i,24108,instructor-led on a course schedule,massachusetts institute of technology,1,expert,economics & finance,12.0,12.0,144.0,450
+operations management,126093,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,3.0,7.0,21.0,150
+marketing management,80010,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,3.0,9.0,27.0,150
+marketing enfocado en la estrategia de servicios,24618,self-paced on your time,universidad nacional de córdoba,1,beginner,business & management,6.0,6.0,36.0,119
+introduction to marketing,169126,self-paced on your time,university of british columbia,1,beginner,business & management,4.0,6.0,24.0,150
+programming basics,215059,self-paced on your time,iitbombay,1,beginner,computer science,7.0,9.0,63.0,149
+probability and statistics in data science using python,106286,self-paced on your time,"the university of california, san diego",1,expert,data analysis & statistics,11.0,10.0,110.0,350
+html5 coding essentials and best practices,241287,self-paced on your time,the world wide web consortium (w3c),0,intermediate,computer science,7.0,6.0,42.0,199
+first nights - beethoven's 9th symphony and the 19th century orchestra,37426,self-paced on your time,harvard university,1,beginner,humanities,4.0,3.0,12.0,49
+cell biology: mitochondria,64142,self-paced on your time,harvard university,1,beginner,biology & life sciences,3.0,4.0,12.0,99
+"algorithms: design and analysis, part 1",20163,self-paced on your time,stanford university,1,intermediate,computer science,3.0,6.0,18.0,149
+introducción al office 365,16470,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,2.5,7.0,17.5,75
+creative thinking: techniques and tools for success,54787,self-paced on your time,imperial college london,1,beginner,humanities,3.0,7.0,21.0,49
+upper-intermediate english: business and technology,47451,self-paced on your time,universitat politècnica de valencia,0,intermediate,language,4.0,4.0,16.0,50
+shakespeare's hamlet: the ghost,38331,self-paced on your time,harvard university,1,beginner,humanities,6.0,4.0,24.0,49
+flashdiet: aprende a comer sano,48105,self-paced on your time,universitat politècnica de valencia,0,beginner,food & nutrition,2.5,5.0,12.5,50
+cs50's understanding technology,50030,self-paced on your time,harvard university,1,beginner,computer science,4.0,6.0,24.0,90
+introduction to aerospace structures and materials,37126,self-paced on your time,delft university of technology,1,beginner,engineering,5.0,8.0,40.0,50
+visualizing data with python,42101,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.0,5.0,15.0,39
+success: practical thinking skills,24414,self-paced on your time,the hong kong polytechnic university,1,beginner,philosophy & ethics,5.0,4.0,20.0,50
+english for doing business in asia – speaking,68422,self-paced on your time,the hong kong university of science and technology,1,beginner,humanities,3.5,7.0,24.5,60
+nutrition and health: macronutrients and overnutrition,208582,self-paced on your time,wageningen university & research,1,beginner,biology & life sciences,7.0,9.0,63.0,99
+"contemporary china: the people's republic, taiwan, and hong kong",66771,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+introduction to clinical psychology,57234,self-paced on your time,the university of queensland,1,beginner,humanities,1.5,7.0,10.5,99
+modern masterpieces of world literature,48049,self-paced on your time,harvard university,1,beginner,literature,4.5,8.0,36.0,99
+"citizen politics in america: public opinion, elections, interest groups, and the media",24259,self-paced on your time,harvard university,1,beginner,social sciences,3.0,4.0,12.0,49
+applied scrum for agile project management,55293,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,engineering,2.5,4.0,10.0,199
+corporate finance,62798,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,4.0,5.0,20.0,150
+judaism through its scriptures,50540,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+excel avanzado: importación y análisis de datos,47184,self-paced on your time,universitat politècnica de valencia,0,expert,data analysis & statistics,3.5,8.0,28.0,75
+css basics,95163,self-paced on your time,the world wide web consortium (w3c),0,beginner,computer science,6.0,5.0,30.0,199
+unlocking information security: part i,19905,self-paced on your time,israelx-tel aviv university,1,intermediate,computer science,5.0,6.0,30.0,149
+becoming an effective leader,55937,self-paced on your time,the university of queensland,1,intermediate,communication,9.0,10.0,90.0,99
+digital branding and engagement,122977,self-paced on your time,curtin university,1,intermediate,communication,3.5,4.0,14.0,99
+introduction to cybersecurity,73021,self-paced on your time,university of washington,1,beginner,computer science,3.5,6.0,21.0,199
+general academic english|生活英语进阶,17526,self-paced on your time,tsinghua university,1,beginner,language,3.5,8.0,28.0,49
+gestión de personas: recursos humanos,19687,self-paced on your time,universidad nacional de córdoba,1,beginner,business & management,6.0,5.0,30.0,119
+from poverty to prosperity: understanding economic development,91062,self-paced on your time,university of oxford,1,intermediate,social sciences,2.5,6.0,15.0,149
+medical terminology,31354,self-paced on your time,doane university,1,beginner,biology & life sciences,7.5,8.0,60.0,79
+ancient masterpieces of world literature,48899,self-paced on your time,harvard university,1,beginner,literature,4.5,6.0,27.0,99
+shakespeare's the merchant of venice: shylock,23283,self-paced on your time,harvard university,1,beginner,humanities,6.0,4.0,24.0,49
+gestión del estrés y mindfulness,15965,self-paced on your time,universidades anáhuac,1,beginner,health & safety,4.5,4.0,18.0,49
+behavioural economics in action,66764,self-paced on your time,university of toronto,1,beginner,business & management,4.5,6.0,27.0,139
+finance for everyone: smart tools for decision-making,45029,self-paced on your time,the university of michigan,1,beginner,business & management,5.5,6.0,33.0,49
+creating innovative business models,12227,self-paced on your time,"university system of maryland-the university of maryland, college park",1,beginner,business & management,2.5,4.0,10.0,149
+u.lab: leading from the emerging future,79424,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,5.0,14.0,70.0,99
+electric cars: introduction,56171,self-paced on your time,delft university of technology,1,intermediate,engineering,4.5,4.0,18.0,50
+inteligencia artificial para todos: domina los fundamentos,11764,self-paced on your time,ibm,0,beginner,computer science,1.5,4.0,6.0,49
+marketing analytics,55228,instructor-led on a course schedule,columbia university,1,expert,business & management,9.0,12.0,108.0,249
+introducción a la regulación emocional basada en mindfulness,20634,self-paced on your time,universidad autónoma de madrid,1,beginner,health & safety,5.5,4.0,22.0,49
+design thinking fundamentals,56446,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,6.0,60.0,299
+basic spanish 3: getting there,17569,self-paced on your time,universitat politècnica de valencia,0,beginner,language,3.5,4.0,14.0,50
+mi propia huerta orgánica,11346,self-paced on your time,universidad nacional de córdoba,1,beginner,biology & life sciences,1.5,4.0,6.0,29
+sustainability in architecture: an interdisciplinary introduction,31352,self-paced on your time,universitat politècnica de valencia,0,intermediate,architecture,3.5,4.0,14.0,50
+gestión de riesgos en proyectos de desarrollo,47676,self-paced on your time,inter-american development bank,0,intermediate,business & management,2.5,10.0,25.0,25
+python data structures,36369,self-paced on your time,the university of michigan,1,beginner,computer science,3.0,7.0,21.0,49
+the science and business of biotechnology,17039,self-paced on your time,massachusetts institute of technology,1,intermediate,business & management,11.0,16.0,176.0,49
+finance essentials,63666,self-paced on your time,imperial college business school-imperial college london,1,beginner,business & management,3.0,6.0,18.0,79
+introduction to the internet of things (iot),89421,self-paced on your time,curtin university,1,beginner,computer science,2.5,6.0,15.0,149
+'talk to me': improving mental health and suicide prevention in young adults,11481,self-paced on your time,curtin university,1,beginner,health & safety,2.5,6.0,15.0,139
+disaster medicine training,10937,self-paced on your time,stanford university,1,beginner,medicine,1.5,8.0,12.0,50
+nutrition and health: human microbiome,44079,self-paced on your time,wageningen university & research,1,beginner,health & safety,4.0,6.0,24.0,49
+customer relationship management,53085,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,4.0,6.0,24.0,50
+islam through its scriptures,65430,self-paced on your time,harvard university,1,beginner,humanities,7.5,4.0,30.0,99
+mechatronics revolution: fundamentals and core concepts,11619,self-paced on your time,the georgia institute of technology,1,beginner,engineering,7.0,16.0,112.0,149
+accounting for decision-making,57710,self-paced on your time,indian institute of management bangalore,1,intermediate,business & management,4.0,7.0,28.0,150
+c programming: language foundations,46400,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,beginner,computer science,3.0,7.0,21.0,49
+big data sin misterios,65564,self-paced on your time,inter-american development bank,0,intermediate,data analysis & statistics,4.5,10.0,45.0,25
+becoming a successful leader (inclusive leadership training),215705,self-paced on your time,catalyst,0,beginner,communication,1.5,4.0,6.0,49
+"english for journalists, part 1",50847,self-paced on your time,"university of california, berkeley",1,intermediate,communication,3.5,5.0,17.5,139
+introduction to networking,16134,self-paced on your time,new york university,1,beginner,computer science,4.0,7.0,28.0,150
+accounting essentials,58463,self-paced on your time,imperial college business school-imperial college london,1,beginner,business & management,4.0,6.0,24.0,79
+introduction to java programming: starting to code in java,325554,self-paced on your time,universidad carlos iii de madrid,1,beginner,computer science,8.5,5.0,42.5,149
+european paintings: from leonardo to rembrandt to goya,60734,self-paced on your time,universidad carlos iii de madrid,1,beginner,humanities,2.5,7.0,17.5,99
+java programming fundamentals,12042,self-paced on your time,universidad galileo,1,intermediate,engineering,9.0,5.0,45.0,49
+"hollywood: history, industry, art",50033,self-paced on your time,university of pennsylvania,1,beginner,communication,3.5,4.0,14.0,169
+data science tools,15627,self-paced on your time,ibm,0,beginner,data analysis & statistics,5.0,7.0,35.0,39
+statistical thinking for data science and analytics,198861,self-paced on your time,columbia university,1,beginner,computer science,8.5,5.0,42.5,99
+philosophy and critical thinking,97175,self-paced on your time,the university of queensland,1,beginner,humanities,2.5,6.0,15.0,99
+international law,91868,self-paced on your time,université catholique de louvain,1,expert,law,7.0,12.0,84.0,150
+tourism and travel management,38503,self-paced on your time,the university of queensland,1,beginner,business & management,2.5,7.0,17.5,5
+project management life cycle,120019,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,10.0,100.0,150
+solar energy,125069,self-paced on your time,delft university of technology,1,beginner,engineering,7.0,8.0,56.0,50
+public speaking,10129,self-paced on your time,rochester institute of technology,1,beginner,communication,5.0,3.0,15.0,199
+japanese pronunciation for communication,62757,self-paced on your time,waseda university,1,beginner,communication,4.0,5.0,20.0,99
+mindfulness and resilience to stress at work,33414,self-paced on your time,"university of california, berkeley",1,beginner,business & management,1.5,4.0,6.0,199
+framing your communication to inspire and convince,49351,self-paced on your time,delft university of technology,1,intermediate,business & management,4.5,5.0,22.5,125
+business foundations,55154,self-paced on your time,university of british columbia,1,beginner,business & management,4.0,6.0,24.0,150
+the chemistry of life,78704,self-paced on your time,kyoto university,1,beginner,biology & life sciences,2.5,13.0,32.5,49
+nutrition and health: micronutrients and malnutrition,78266,self-paced on your time,wageningen university & research,1,intermediate,biology & life sciences,7.0,7.0,49.0,99
+digital design,12339,self-paced on your time,the hong kong university of science and technology,1,beginner,design,5.5,5.0,27.5,50
+machine learning for data science and analytics,140419,self-paced on your time,columbia university,1,beginner,computer science,8.5,5.0,42.5,99
+the science of everyday thinking,318399,self-paced on your time,the university of queensland,1,beginner,business & management,2.5,12.0,30.0,99
+gestion de projets de développement,41663,self-paced on your time,inter-american development bank,0,intermediate,business & management,3.5,10.0,35.0,25
+product management fundamentals,11913,self-paced on your time,"the university of maryland, college park-university system of maryland",1,beginner,business & management,2.5,4.0,10.0,199
+international human rights law,74424,self-paced on your time,université catholique de louvain,1,expert,law,7.0,12.0,84.0,150
+the best start in life: early childhood development for sustainable development,23139,self-paced on your time,sdg academy,0,intermediate,education & teacher training,3.0,8.0,24.0,49
+data science and machine learning capstone project,21809,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.5,6.0,21.0,99
+"data science for construction, architecture and engineering",11113,self-paced on your time,the national university of singapore,1,beginner,data analysis & statistics,5.0,7.0,35.0,199
+"nutrition, heart disease and diabetes",24986,self-paced on your time,wageningen university & research,1,intermediate,food & nutrition,7.0,5.0,35.0,99
+project management for development,62099,self-paced on your time,inter-american development bank,0,intermediate,business & management,3.5,10.0,35.0,49
+introduction to cloud infrastructure technologies,86923,self-paced on your time,the linux foundation,0,beginner,computer science,3.5,14.0,49.0,169
+"circular fashion: design, science and value in a sustainable clothing industry",13566,self-paced on your time,wageningen university & research,1,beginner,art & culture,5.0,5.0,25.0,65
+machine learning,150855,instructor-led on a course schedule,columbia university,1,expert,computer science,9.0,12.0,108.0,249
+introducción a la gestión de proyectos,98517,self-paced on your time,universitat politècnica de valencia,0,beginner,business & management,4.5,5.0,22.5,50
+free cash flow analysis,36085,self-paced on your time,columbia university,1,beginner,business & management,3.5,5.0,17.5,225
+lean production,55926,self-paced on your time,technische universität münchen,1,beginner,business & management,3.5,6.0,21.0,99
+introduction to algebra,131197,self-paced on your time,schoolyourself,1,beginner,math,5.0,4.0,20.0,139
+"latex for students, engineers, and scientists",11823,self-paced on your time,iitbombay,1,beginner,engineering,3.5,7.0,24.5,139
+leading with effective communication (inclusive leadership training),107770,self-paced on your time,catalyst,0,beginner,communication,1.5,4.0,6.0,50
+anatomy: musculoskeletal and integumentary systems,51969,self-paced on your time,the university of michigan,1,beginner,biology & life sciences,2.5,4.0,10.0,49
+"inglés empresarial: ventas, gestión y liderazgo",10897,instructor-led on a course schedule,universidades anáhuac,1,beginner,business & management,6.5,4.0,26.0,49
+business strategy from wharton: competitive advantage,26675,self-paced on your time,the wharton school of the university of pennsylvania,1,intermediate,business & management,3.5,6.0,21.0,199
+inteligencia emocional para el liderazgo efectivo y colaboración,14726,self-paced on your time,universidades anáhuac,1,beginner,social sciences,4.5,4.0,18.0,49
+introducción al desarrollo de aplicaciones web,27757,self-paced on your time,universidad autónoma de madrid,1,beginner,computer science,4.5,5.0,22.5,49
+"six sigma: analyze, improve, control",56016,self-paced on your time,technische universität münchen,1,beginner,business & management,3.5,8.0,28.0,99
+introducción a la inteligencia emocional,18830,self-paced on your time,universidades anáhuac,1,beginner,social sciences,4.0,4.0,16.0,49
+ap® microeconomics,53664,self-paced on your time,massachusetts institute of technology,1,beginner,economics & finance,3.5,12.0,42.0,49
+engineering calculus and differential equations,21535,self-paced on your time,university of hong kong,1,beginner,math,4.5,6.0,27.0,50
+linear algebra - foundations to frontiers,88570,self-paced on your time,the university of texas at austin,1,intermediate,computer science,8.0,15.0,120.0,49
+habilidades de negociación y comunicación efectiva,19614,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+effective communication for today's leader,8862,self-paced on your time,tecnológico de monterrey,1,intermediate,business & management,6.5,4.0,26.0,149
+electric cars: technology,40972,self-paced on your time,delft university of technology,1,intermediate,engineering,4.5,4.0,18.0,50
+site planning online,12948,self-paced on your time,massachusetts institute of technology,1,intermediate,design,5.0,10.0,50.0,99
+macroeconometric forecasting,69358,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,9.0,9.0,81.0,25
+administración pública y fiscal: cómo se gestiona un gobierno,49189,self-paced on your time,inter-american development bank,0,beginner,economics & finance,3.5,10.0,35.0,25
+fundamentals of red hat enterprise linux,53788,self-paced on your time,red hat,0,beginner,computer science,2.0,9.0,18.0,99
+algorithms,61722,self-paced on your time,iitbombay,1,intermediate,computer science,7.0,6.0,42.0,149
+calculus applied!,54976,self-paced on your time,harvard university,1,intermediate,math,4.5,10.0,45.0,99
+precalculus,55576,self-paced on your time,arizona state university,1,intermediate,math,9.5,15.0,142.5,49
+fundamentos de anatomía y técnica quirúrgica básica,12133,instructor-led on a course schedule,universidad del rosario,1,beginner,medicine,5.0,4.0,20.0,49
+business communications,60713,self-paced on your time,university of british columbia,1,beginner,business & management,4.0,6.0,24.0,150
+italian language and culture: intermediate (2019-2020),35058,self-paced on your time,wellesley college,1,intermediate,language,4.0,12.0,48.0,49
+international women's health and human rights,9796,self-paced on your time,stanford university,1,beginner,social sciences,3.0,10.0,30.0,50
+blockchain: understanding its uses and implications,66769,self-paced on your time,the linux foundation,0,beginner,business & management,2.5,14.0,35.0,199
+"a-level mathematics for year 12 - course 1: algebraic methods, graphs and applied mathematics methods",22366,self-paced on your time,imperial college london,1,intermediate,math,3.0,7.0,21.0,49
+blockchain technology,55376,self-paced on your time,"university of california, berkeley",1,intermediate,computer science,4.0,6.0,24.0,99
+basics of power bi,8314,self-paced on your time,rolls-royce,0,beginner,data analysis & statistics,3.0,2.0,6.0,49
+preparing to network in english,34337,self-paced on your time,university of washington,1,beginner,language,4.0,6.0,24.0,149
+mandarin chinese essentials,36665,self-paced on your time,mandarinx,0,beginner,language,7.0,5.0,35.0,99
+human rights: the rights of refugees,84270,self-paced on your time,amnesty international,0,beginner,humanities,4.0,3.0,12.0,49
+what do architects and urban planners do?,11046,self-paced on your time,wits university,1,beginner,architecture,2.5,3.0,7.5,49
+"u.s. political institutions: congress, presidency, courts, and bureaucracy",22723,self-paced on your time,harvard university,1,beginner,social sciences,3.0,4.0,12.0,49
+negotiation skills and effective communication,8146,self-paced on your time,tecnológico de monterrey,1,intermediate,business & management,6.5,4.0,26.0,149
+ap® english literature & composition – part 1: stories,15650,self-paced on your time,"university of california, berkeley",1,beginner,humanities,4.5,7.0,31.5,49
+"viruses & how to beat them: cells, immunity, vaccines",28710,self-paced on your time,israelx-tel aviv university,1,beginner,medicine,2.5,7.0,17.5,149
+alianzas: un vehículo para lograr el desarrollo sostenible,17554,self-paced on your time,inter-american development bank,0,beginner,social sciences,3.5,10.0,35.0,25
+designing and creating skirts,13954,self-paced on your time,the hong kong polytechnic university,1,beginner,design,4.0,5.0,20.0,99
+cómo aprender online,7958,self-paced on your time,edx,0,beginner,education & teacher training,2.5,2.0,5.0,49
+computing in python ii: control structures,31511,self-paced on your time,the georgia institute of technology,1,beginner,computer science,9.5,5.0,47.5,99
+facebook ads: cómo utilizar el poder de la publicidad en facebook,29614,self-paced on your time,universidad galileo,1,beginner,communication,3.5,5.0,17.5,49
+machine learning fundamentals,82008,self-paced on your time,"the university of california, san diego",1,expert,data analysis & statistics,9.0,10.0,90.0,350
+pre-university calculus,103224,self-paced on your time,delft university of technology,1,beginner,math,7.0,8.0,56.0,50
+tsinghua chinese: start talking with 1.3 billion people,58834,self-paced on your time,tsinghua university,1,beginner,language,2.5,6.0,15.0,49
+deep learning with python and pytorch,36195,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.0,6.0,18.0,99
+diseña presentaciones eficaces con powerpoint,36663,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,7.0,3.0,21.0,50
+world of wine: from grape to glass,81839,self-paced on your time,university of adelaide,1,beginner,science,2.5,6.0,15.0,199
+sustainable cities,16619,self-paced on your time,sdg academy,0,intermediate,environmental studies,5.0,9.0,45.0,49
+introduction to developmental psychology,38060,self-paced on your time,the university of queensland,1,beginner,humanities,1.5,8.0,12.0,99
+creativity & entrepreneurship,69413,self-paced on your time,berklee college of music,1,beginner,business & management,4.0,4.0,16.0,49
+college algebra and problem solving,103010,self-paced on your time,arizona state university,1,beginner,math,8.5,15.0,127.5,49
+academic writing for clarity and meaning,16220,self-paced on your time,wits university,1,beginner,education & teacher training,2.5,2.0,5.0,49
+financial development and financial inclusion,13853,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,9.0,7.0,63.0,25
+global public health,17273,self-paced on your time,sdg academy,0,intermediate,health & safety,5.0,10.0,50.0,49
+embedded systems - shape the world: microcontroller input/output,69182,self-paced on your time,the university of texas at austin,1,intermediate,computer science,9.0,8.0,72.0,49
+introduction to animal behaviour,42135,self-paced on your time,wageningen university & research,1,beginner,biology & life sciences,5.0,6.0,30.0,49
+circular economy: an introduction,50240,self-paced on your time,delft university of technology,1,beginner,business & management,4.5,7.0,31.5,50
+public financial management,23288,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,5.0,8.0,40.0,25
+anatomy: human neuroanatomy,49319,self-paced on your time,the university of michigan,1,beginner,biology & life sciences,3.5,8.0,28.0,49
+android: introducción a la programación,85786,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,4.5,10.0,45.0,50
+the ancient greek hero,51744,instructor-led on a course schedule,harvard university,1,beginner,humanities,10.0,18.0,180.0,99
+agile leadership principles and practices,31838,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,engineering,2.5,4.0,10.0,199
+how to code: simple data,98113,self-paced on your time,university of british columbia,1,beginner,computer science,2.5,7.0,17.5,125
+cybersecurity and privacy in the iot,21440,self-paced on your time,curtin university,1,beginner,computer science,5.0,5.0,25.0,199
+strategic management,71085,self-paced on your time,indian institute of management bangalore,1,beginner,business & management,4.0,5.0,20.0,150
+introducción a la ciencia de datos y sus aplicaciones,7303,self-paced on your time,ibm,0,beginner,data analysis & statistics,4.5,6.0,27.0,39
+"biochemistry: biomolecules, methods, and mechanisms",18692,instructor-led on a course schedule,massachusetts institute of technology,1,intermediate,biology & life sciences,4.5,12.0,54.0,150
+astronomía virtual,10500,self-paced on your time,universidad nacional de córdoba,1,beginner,science,6.0,7.0,42.0,29
+nutrition and cancer,27144,self-paced on your time,wageningen university & research,1,intermediate,food & nutrition,7.0,5.0,35.0,99
+build your very first ios app,31570,instructor-led on a course schedule,curtin university,1,beginner,computer science,9.0,8.0,72.0,149
+object-oriented programming,93633,self-paced on your time,iitbombay,1,beginner,computer science,7.0,4.0,28.0,149
+introduction to jenkins,7233,self-paced on your time,the linux foundation,0,beginner,computer science,2.5,10.0,25.0,199
+conducting an informational interview,15594,self-paced on your time,university of washington,1,beginner,language,4.0,8.0,32.0,99
+liderazgo y comportamiento organizacional,21419,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+creative coding,18660,instructor-led on a course schedule,new york university,1,beginner,design,9.0,14.0,126.0,249
+análisis estadístico con excel,22717,self-paced on your time,universidad galileo,1,beginner,data analysis & statistics,4.0,4.0,16.0,49
+introducción a la ingeniería del software,17931,self-paced on your time,universidad autónoma de madrid,1,beginner,computer science,4.5,5.0,22.5,49
+computer graphics,98553,self-paced on your time,"the university of california, san diego",1,intermediate,computer science,9.0,6.0,54.0,99
+data science: computational thinking with python,78232,self-paced on your time,"university of california, berkeley",1,beginner,computer science,5.0,5.0,25.0,199
+comunicación efectiva para el líder actual,18470,self-paced on your time,tecnológico de monterrey,1,beginner,communication,6.5,4.0,26.0,149
+debate y argumentación,10954,self-paced on your time,universidad del rosario,1,beginner,humanities,5.0,4.0,20.0,49
+deep learning with tensorflow,37564,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.0,5.0,15.0,99
+machine learning (aprendizaje automático) con python: una introducción práctica,39155,self-paced on your time,ibm,0,beginner,computer science,5.0,5.0,25.0,49
+essential human biology: cells and tissues,67961,self-paced on your time,university of adelaide,1,beginner,medicine,2.5,5.0,12.5,169
+"writing, presenting and submitting scientific papers in english | 英文科技论文写作与学术报告",35720,self-paced on your time,tsinghua university,1,intermediate,communication,2.5,5.0,12.5,49
+computing in python iii: data structures,27239,self-paced on your time,the georgia institute of technology,1,beginner,computer science,9.5,5.0,47.5,99
+introduction to internet of things (iot),6703,self-paced on your time,rolls-royce,0,beginner,data analysis & statistics,3.0,2.0,6.0,49
+nutrition and health: food risks,51493,self-paced on your time,wageningen university & research,1,beginner,biology & life sciences,7.0,8.0,56.0,49
+mechanics: kinematics and dynamics,35529,self-paced on your time,massachusetts institute of technology,1,intermediate,physics,11.0,12.0,132.0,49
+storytelling for social change,30313,self-paced on your time,the university of michigan,1,beginner,communication,2.0,5.0,10.0,49
+introduction to data analytics for managers,39113,self-paced on your time,the university of michigan,1,beginner,business & management,3.0,6.0,18.0,49
+qualitative research methods: conversational interviewing,21972,self-paced on your time,massachusetts institute of technology,1,intermediate,humanities,2.5,3.0,7.5,49
+international project management,45145,self-paced on your time,rochester institute of technology,1,expert,business & management,10.0,9.0,90.0,150
+software development fundamentals,51402,self-paced on your time,university of pennsylvania,1,intermediate,computer science,7.0,4.0,28.0,149
+"first nights - stravinsky’s rite of spring: modernism, ballet, and riots",17484,self-paced on your time,harvard university,1,beginner,humanities,4.0,3.0,12.0,49
+critical thinking & problem solving,6558,self-paced on your time,rochester institute of technology,1,beginner,communication,5.0,3.0,15.0,199
+data analysis essentials,42262,self-paced on your time,imperial college business school-imperial college london,1,beginner,business & management,5.0,6.0,30.0,79
+master control in supply chain management and logistics,31326,self-paced on your time,chalmers university of technology,1,beginner,business & management,4.5,7.0,31.5,49
+work and employment for a sustainable future,6528,self-paced on your time,sdg academy,0,intermediate,economics & finance,3.0,6.0,18.0,49
+foundations of data structures,54075,self-paced on your time,iitbombay,1,intermediate,computer science,7.0,6.0,42.0,149
+"financial programming and policies, part 1: macroeconomic accounts & analysis",31024,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,9.0,6.0,54.0,25
+iot system design: software and hardware integration,13608,self-paced on your time,waseda university,1,intermediate,computer science,5.0,4.0,20.0,99
+english for doing business in asia – writing,44252,self-paced on your time,the hong kong university of science and technology,1,beginner,humanities,3.5,7.0,24.5,60
+working in teams: a practical guide,43981,self-paced on your time,the university of queensland,1,beginner,humanities,7.0,4.0,28.0,49
+introducción a los encofrados y las cimbras en obra civil y edificación,16029,self-paced on your time,universitat politècnica de valencia,0,beginner,engineering,2.5,4.0,10.0,50
+ai chatbots without programming,35440,self-paced on your time,ibm,0,beginner,computer science,3.0,2.0,6.0,99
+introducción a la ciencia de datos y el big data,16268,self-paced on your time,tecnológico de monterrey,1,intermediate,data analysis & statistics,4.0,4.0,16.0,49
+just money: banking as if society mattered,25553,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,3.5,16.0,56.0,49
+introducción a r,6431,self-paced on your time,universidades anáhuac,1,beginner,data analysis & statistics,6.5,4.0,26.0,49
+computing in python iv: objects & algorithms,28112,self-paced on your time,the georgia institute of technology,1,beginner,computer science,9.5,5.0,47.5,99
+adobe illustrator: aprende a crear presentaciones de impacto,18613,self-paced on your time,pontificia universidad javeriana,1,beginner,design,9.5,5.0,47.5,15
+teaching critical thinking through art with the national gallery of art,18595,self-paced on your time,the smithsonian institution,0,beginner,education & teacher training,3.5,16.0,56.0,25
+word intermedio: herramientas de formato y productividad,10265,self-paced on your time,universitat politècnica de valencia,0,intermediate,computer science,4.5,6.0,27.0,50
+introducción a las finanzas: principios de valoración,17344,self-paced on your time,universidad del rosario,1,intermediate,economics & finance,8.0,4.0,32.0,49
+aprende a diseñar jardines verticales y cuadros vivos,6341,self-paced on your time,universidad nacional de córdoba,1,beginner,biology & life sciences,1.5,4.0,6.0,29
+"anatomy: cardiovascular, urinary, and respiratory systems",36917,self-paced on your time,the university of michigan,1,beginner,biology & life sciences,2.5,4.0,10.0,49
+software engineering: introduction,35524,self-paced on your time,university of british columbia,1,expert,computer science,9.0,6.0,54.0,125
+structure of materials,13042,self-paced on your time,massachusetts institute of technology,1,intermediate,engineering,7.0,16.0,112.0,150
+fundamentos de fotografía documental,13036,self-paced on your time,universidad del rosario,1,beginner,art & culture,5.0,6.0,30.0,49
+ap® italian language and culture (2020-2021),39398,self-paced on your time,wellesley college,1,expert,humanities,5.5,12.0,66.0,49
+computer hardware and operating systems,9715,self-paced on your time,new york university,1,beginner,computer science,4.0,6.0,24.0,150
+marketing management,43415,instructor-led on a course schedule,"the university of maryland, college park-university system of maryland",1,expert,business & management,9.0,7.0,63.0,214
+you can innovate: user  innovation & entrepreneurship,18974,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,3.0,10.0,30.0,49
+analytics in python,82210,instructor-led on a course schedule,columbia university,1,intermediate,business & management,9.0,12.0,108.0,249
+bases matemáticas: álgebra,35811,self-paced on your time,universitat politècnica de valencia,0,beginner,math,3.5,4.0,14.0,50
+html5 apps and games,86850,self-paced on your time,the world wide web consortium (w3c),0,expert,computer science,7.0,4.0,28.0,199
+matlab and octave for beginners,68706,self-paced on your time,école polytechnique fédérale de lausanne,1,beginner,computer science,5.5,4.0,22.0,139
+ap physics 1,43401,self-paced on your time,rice university,1,beginner,physics,3.5,18.0,63.0,49
+the divine comedy: dante's journey to freedom,12005,self-paced on your time,georgetown university,1,beginner,humanities,9.5,8.0,76.0,49
+linux basics: the command line interface,32726,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,beginner,computer science,4.0,7.0,28.0,49
+entrepreneurial operations: launching a startup,23808,self-paced on your time,babson college,1,intermediate,business & management,5.0,4.0,20.0,149
+maths essentials,44642,self-paced on your time,imperial college business school-imperial college london,1,beginner,business & management,3.5,6.0,21.0,79
+"marketing analytics: products, distribution and sales",50588,self-paced on your time,"university of california, berkeley",1,intermediate,computer science,6.0,4.0,24.0,249
+marketing innovative products and services,6293,self-paced on your time,"the university of maryland, college park-university system of maryland",1,beginner,business & management,2.5,4.0,10.0,149
+just reading and writing in english | 生活英语读写,33303,self-paced on your time,tsinghua university,1,beginner,art & culture,3.0,15.0,45.0,149
+introduction to java programming – part 1,270376,self-paced on your time,the hong kong university of science and technology,1,beginner,computer science,4.0,5.0,20.0,99
+comunicación y redacción digital,7165,self-paced on your time,universidades anáhuac,1,beginner,communication,3.5,4.0,14.0,29
+monetary policy analysis and forecasting,6616,self-paced on your time,the international monetary fund,0,expert,economics & finance,9.0,6.0,54.0,25
+basic analytical chemistry,19010,self-paced on your time,the university of tokyo,1,beginner,chemistry,3.5,6.0,21.0,49
+identifying entrepreneurial opportunities,11922,self-paced on your time,"the university of maryland, college park-university system of maryland",1,beginner,business & management,2.5,4.0,10.0,149
+"chinax book club: five authors, five books, five views of china",5855,self-paced on your time,harvard university,1,beginner,literature,1.5,5.0,7.5,139
+astrophysics: cosmology,83322,self-paced on your time,australian national university,1,intermediate,physics,3.0,10.0,30.0,50
+japanese culture and language (i) |日语与日本文化（1）,18489,self-paced on your time,tsinghua university,1,beginner,art & culture,4.0,10.0,40.0,139
+covid-19 training for healthcare workers,5742,self-paced on your time,stanford university,1,beginner,medicine,5.5,2.0,11.0,10
+the rise of superheroes and their impact on pop culture,31368,self-paced on your time,the smithsonian institution,0,beginner,humanities,1.5,6.0,9.0,50
+introduction to aeronautical engineering,99971,self-paced on your time,delft university of technology,1,beginner,engineering,11.0,7.0,77.0,50
+diseño de jardines,5683,self-paced on your time,universidad nacional de córdoba,1,beginner,biology & life sciences,1.5,4.0,6.0,29
+"introducción al griego clásico: lengua, nombres y mitología",18849,self-paced on your time,universidad autónoma de madrid,1,beginner,language,4.5,5.0,22.5,49
+deep learning fundamentals with keras,32140,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.0,5.0,15.0,99
+existential well-being counseling: a person-centered experiential approach,48439,self-paced on your time,ku leuven university,1,beginner,humanities,7.0,12.0,84.0,49
+solid waste management,7668,self-paced on your time,world bank group,0,beginner,environmental studies,2.5,6.0,15.0,5
+retail fundamentals,37558,self-paced on your time,dartmouth college,1,intermediate,business & management,4.0,4.0,16.0,99
+greatest unsolved mysteries of the universe,93965,self-paced on your time,australian national university,1,intermediate,physics,3.0,9.0,27.0,50
+"money markets, foreign exchange and time value of money",12230,self-paced on your time,nyif,0,beginner,economics & finance,1.5,4.0,6.0,199
+gestión de contenidos digitales y marketing turístico de ciudad,14627,self-paced on your time,pontificia universidad javeriana,1,beginner,communication,9.5,4.0,38.0,49
+designing the user experience,6416,self-paced on your time,"the university of maryland, college park-university system of maryland",1,beginner,business & management,2.5,4.0,10.0,199
+introduction to bioconductor,36370,self-paced on your time,harvard university,1,intermediate,data analysis & statistics,3.0,4.0,12.0,149
+connected strategy,10355,self-paced on your time,the wharton school of the university of pennsylvania,1,intermediate,business & management,3.0,6.0,18.0,199
+hybrid vehicles,18294,instructor-led on a course schedule,chalmers university of technology,1,expert,engineering,15.0,6.0,90.0,249
+first nights - handel's messiah and baroque oratorio,18029,self-paced on your time,harvard university,1,beginner,humanities,4.0,3.0,12.0,49
+statistical inference and modeling for high-throughput experiments,51590,self-paced on your time,harvard university,1,intermediate,data analysis & statistics,3.0,4.0,12.0,149
+first nights - monteverdi’s l’orfeo and the birth of opera,13300,self-paced on your time,harvard university,1,beginner,humanities,4.0,3.0,12.0,49
+18th-century opera: handel & mozart,18331,self-paced on your time,harvard university,1,beginner,music,3.5,5.0,17.5,99
+introduction to video game development with unity,7605,self-paced on your time,universitat politècnica de valencia,0,intermediate,computer science,3.5,6.0,21.0,50
+best practices for project management success,46610,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,11.0,110.0,150
+fundamentos de la tecnología blockchain,5473,self-paced on your time,pontificia universidad javeriana,1,beginner,economics & finance,8.5,5.0,42.5,49
+información financiera y su análisis,5473,self-paced on your time,tecnológico de monterrey,1,expert,economics & finance,6.5,4.0,26.0,50
+coaching skills for learner-centred conversations,8089,self-paced on your time,imperial college london,1,beginner,education & teacher training,1.5,4.0,6.0,49
+intellectual property law and policy: part 1,43993,self-paced on your time,university of pennsylvania,1,intermediate,law,2.5,6.0,15.0,169
+robotics,68199,instructor-led on a course schedule,columbia university,1,expert,computer science,9.0,10.0,90.0,249
+la gestion des ressources humaines,6824,self-paced on your time,hec montréal,0,beginner,business & management,1.5,7.0,10.5,99
+writing for social justice,9927,self-paced on your time,"university of california, berkeley",1,beginner,humanities,4.5,4.0,18.0,50
+steps in japanese for beginners1 part2,8080,self-paced on your time,waseda university,1,beginner,language,4.0,5.0,20.0,99
+case studies in functional genomics,26850,self-paced on your time,harvard university,1,expert,data analysis & statistics,3.0,5.0,15.0,149
+essential career skills for investment banking and finance,11655,self-paced on your time,nyif,0,beginner,business & management,3.5,2.0,7.0,49
+data structures and software design,30609,self-paced on your time,university of pennsylvania,1,intermediate,computer science,9.0,4.0,36.0,149
+unconscious bias: from awareness to action,26659,self-paced on your time,catalyst,0,beginner,communication,1.5,3.0,4.5,49
+cybersecurity for critical urban infrastructure,5306,self-paced on your time,massachusetts institute of technology,1,expert,computer science,4.0,4.0,16.0,100
+"agile process, project, and program controls",16339,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,engineering,2.5,4.0,10.0,199
+risk management in development projects,13263,self-paced on your time,inter-american development bank,0,intermediate,business & management,2.5,10.0,25.0,25
+"pintura europea: leonardo, rembrandt, goya",32635,self-paced on your time,universidad carlos iii de madrid,1,beginner,humanities,2.5,7.0,17.5,29
+risk & return,21970,self-paced on your time,columbia university,1,beginner,business & management,3.5,4.0,14.0,225
+project management of engineering projects: preparing for success,42834,instructor-led on a course schedule,delft university of technology,1,intermediate,business & management,5.0,10.0,50.0,99
+supply chain dynamics,75464,instructor-led on a course schedule,massachusetts institute of technology,1,expert,business & management,10.0,13.0,130.0,299
+aws developer: building on aws,54249,self-paced on your time,amazon web services,0,expert,computer science,3.5,6.0,21.0,149
+financial accounting made fun: eliminating your fears,36787,self-paced on your time,babson college,1,beginner,business & management,5.0,4.0,20.0,199
+predictionx: john snow and the cholera epidemic of 1854,17713,self-paced on your time,harvard university,1,beginner,history,4.0,1.0,4.0,25
+gestión de operaciones,9512,self-paced on your time,universidad nacional de córdoba,1,beginner,business & management,6.0,6.0,36.0,119
+microeconomics & business,10962,self-paced on your time,doane university,1,beginner,economics & finance,14.0,8.0,112.0,79
+inteligencia artificial: chatbots sin programación,5001,self-paced on your time,ibm,0,beginner,computer science,3.0,2.0,6.0,49
+diseño e innovación de modelo de negocios,7180,self-paced on your time,tecnológico de monterrey,1,expert,business & management,6.5,4.0,26.0,99
+unlocking investment and finance in emerging markets and developing economies (emdes),29171,self-paced on your time,world bank group,0,beginner,economics & finance,5.0,4.0,20.0,5
+gestão de riscos em projetos,8771,self-paced on your time,inter-american development bank,0,intermediate,business & management,3.5,10.0,35.0,25
+vocal recording technology,52369,self-paced on your time,berklee college of music,1,beginner,engineering,5.5,6.0,33.0,49
+iot sensors and devices,33072,self-paced on your time,curtin university,1,beginner,computer science,5.0,5.0,25.0,199
+introducción a las tecnologías para la educación,31533,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,3.5,5.0,17.5,49
+fundamentos de la guitarra eléctrica y acústica,13124,self-paced on your time,berklee college of music,1,beginner,music,3.5,6.0,21.0,49
+e-learning on digital agriculture,6238,self-paced on your time,world bank group,0,beginner,environmental studies,2.5,5.0,12.5,5
+exploring graphql: a query language for apis,9503,self-paced on your time,the linux foundation,0,beginner,computer science,1.5,7.0,10.5,149
+emsat english preparation - level 2,7346,self-paced on your time,united arab emirates university,1,intermediate,language,2.5,6.0,15.0,49
+the data science method,7868,self-paced on your time,ibm,0,beginner,data analysis & statistics,5.0,7.0,35.0,39
+"plato, socrates, and the birth of western philosophy | 西方哲学精神探源",21291,self-paced on your time,tsinghua university,1,beginner,humanities,2.0,16.0,32.0,49
+"cosmic rays, dark matter, and the mysteries of the universe",12888,self-paced on your time,waseda university,1,intermediate,physics,4.0,4.0,16.0,49
+macroeconomic diagnostics,23408,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,7.0,6.0,42.0,25
+biostatistics,14937,self-paced on your time,doane university,1,beginner,biology & life sciences,7.5,8.0,60.0,79
+results-based project management: monitoring and evaluation,32810,self-paced on your time,wits university,1,intermediate,business & management,3.5,8.0,28.0,199
+estrategias y estilos de negociación,12639,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+políticas efectivas de desarrollo infantil,64387,self-paced on your time,inter-american development bank,0,intermediate,social sciences,4.5,10.0,45.0,25
+alzheimer’s disease & dementia care,5763,self-paced on your time,salisbury university-university system of maryland,1,intermediate,medicine,2.5,5.0,12.5,49
+understanding classroom interaction,27114,self-paced on your time,university of pennsylvania,1,beginner,education & teacher training,2.5,5.0,12.5,49
+sign language science: emergence and evolution of sign language,8313,self-paced on your time,georgetown university,1,beginner,language,4.0,4.0,16.0,99
+international humanitarian law,31419,self-paced on your time,université catholique de louvain,1,expert,law,8.0,12.0,96.0,150
+"educación de calidad para todos: equidad, inclusión y atención a la diversidad",25111,self-paced on your time,universidad autónoma de madrid,1,beginner,education & teacher training,4.0,6.0,24.0,49
+introduction to astrophysics,20802,self-paced on your time,école polytechnique fédérale de lausanne,1,beginner,physics,3.5,7.0,24.5,139
+epidemics i,10618,self-paced on your time,university of hong kong,1,beginner,medicine,2.5,5.0,12.5,139
+introducción a la genética y la evolución,15297,self-paced on your time,universidad autónoma de madrid,1,beginner,biology & life sciences,2.5,3.0,7.5,49
+fundamentals of macroeconomics,17820,self-paced on your time,universidad carlos iii de madrid,1,beginner,economics & finance,2.5,6.0,15.0,129
+"blockchain and fintech: basics, applications, and limitations",22011,self-paced on your time,university of hong kong,1,beginner,computer science,3.5,6.0,21.0,199
+molecular biology - part 2: transcription and transposition,18168,self-paced on your time,massachusetts institute of technology,1,expert,biology & life sciences,6.0,7.0,42.0,99
+"one planet, one ocean",12166,self-paced on your time,sdg academy,0,intermediate,environmental studies,5.0,6.0,30.0,49
+reputation management in a digital world,39672,self-paced on your time,curtin university,1,intermediate,communication,3.5,6.0,21.0,99
+google ads: publicidad efectiva,12084,self-paced on your time,universidad galileo,1,beginner,business & management,3.0,5.0,15.0,49
+introducción a la energía solar fotovoltaica: el módulo fotovoltaico,14673,self-paced on your time,universitat politècnica de valencia,0,intermediate,engineering,3.5,4.0,14.0,50
+computer vision fundamentals with watson and opencv,7032,self-paced on your time,ibm,0,beginner,computer science,10.5,14.0,147.0,99
+japanese business management,14852,self-paced on your time,waseda university,1,intermediate,business & management,4.0,4.0,16.0,129
+fundamentos de logística,7397,self-paced on your time,logyca,0,beginner,engineering,6.0,5.0,30.0,29
+sustainable urban development,45760,self-paced on your time,delft university of technology-wageningen university & research-delft university & wageningen university,1,beginner,social sciences,5.0,7.0,35.0,50
+introduction to biomedical imaging,56485,self-paced on your time,the university of queensland,1,beginner,medicine,4.5,12.0,54.0,99
+introducción a la programación en java: empezando a programar,23321,self-paced on your time,universidad carlos iii de madrid,1,beginner,computer science,8.5,5.0,42.5,49
+"circuits and electronics 2: amplification, speed, and delay",9665,self-paced on your time,massachusetts institute of technology,1,intermediate,electronics,8.0,5.0,40.0,169
+china’s political and intellectual foundations: from sage kings to confucius,47083,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+introduction to devops and site reliability engineering,8697,self-paced on your time,the linux foundation,0,beginner,computer science,1.5,10.0,15.0,149
+digital transformation in business,10118,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,business & management,9.0,7.0,63.0,214
+designing and creating trousers,7544,self-paced on your time,the hong kong polytechnic university,1,beginner,design,4.0,5.0,20.0,99
+introducción a la teoría política: conceptos y grandes pensadores,11741,self-paced on your time,università degli studi di napoli federico ii,1,beginner,social sciences,5.0,7.0,35.0,59
+"human rights, human wrongs: challenging poverty, vulnerability and social exclusion",11426,self-paced on your time,sdg academy,0,intermediate,social sciences,3.0,11.0,33.0,49
+industry 4.0: how to revolutionize your business,28404,self-paced on your time,the hong kong polytechnic university,1,beginner,business & management,7.0,6.0,42.0,50
+desafíos y oportunidades en la economía digital,47792,self-paced on your time,inter-american development bank,0,beginner,economics & finance,2.5,10.0,25.0,25
+pensamiento crítico: toma de decisiones razonadas,16853,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+sustainable food security: crop production,35367,self-paced on your time,wageningen university & research,1,intermediate,biology & life sciences,7.0,6.0,42.0,49
+network and security foundations,7301,self-paced on your time,western governors university,1,beginner,computer science,9.5,8.0,76.0,300
+cannabis cultivation and processing,7419,self-paced on your time,doane university,1,beginner,environmental studies,7.5,3.0,22.5,179
+"data, models and decisions in business analytics",36289,instructor-led on a course schedule,columbia university,1,expert,business & management,9.0,12.0,108.0,249
+data structures fundamentals,42381,self-paced on your time,"the university of california, san diego",1,intermediate,computer science,9.0,6.0,54.0,99
+shaping work of the future,22246,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,4.5,8.0,36.0,49
+introducción a la robótica e industria 4.0,7056,self-paced on your time,universidades anáhuac,1,beginner,computer science,4.5,3.0,13.5,49
+fighting for equality: 1950–2018,9274,self-paced on your time,columbia university,1,intermediate,history,2.5,10.0,25.0,50
+"design thinking: ideation, iteration and communication",14629,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,6.0,60.0,299
+crear música con tecnología,10961,self-paced on your time,berklee college of music,1,beginner,music,4.0,6.0,24.0,49
+análisis de datos: diseño y visualización de tableros,18368,self-paced on your time,delft university of technology,1,intermediate,computer science,5.0,8.0,40.0,49
+comunicación estratégica: gestión de crisis e imagen pública,7017,self-paced on your time,pontificia universidad javeriana,1,beginner,communication,3.0,4.0,12.0,49
+"understanding agribusiness, value chains, and consumers in global food systems",14052,self-paced on your time,university of adelaide,1,intermediate,business & management,2.5,4.0,10.0,199
+unlocking information security: part ii,6426,self-paced on your time,israelx-tel aviv university,1,intermediate,computer science,5.0,6.0,30.0,149
+human rights defenders,27338,self-paced on your time,amnesty international,0,beginner,social sciences,4.5,4.0,18.0,49
+product design: the delft design approach,87539,self-paced on your time,delft university of technology,1,intermediate,business & management,7.0,7.0,49.0,79
+introduction to psychology | 心理学概论,30731,self-paced on your time,tsinghua university,1,beginner,philosophy & ethics,4.0,13.0,52.0,139
+circuits and electronics 3: applications,9347,self-paced on your time,massachusetts institute of technology,1,intermediate,electronics,9.0,7.0,63.0,169
+vaccines: from smallpox to technologies of the future,6166,self-paced on your time,ku leuven university,1,intermediate,medicine,4.0,6.0,24.0,49
+le management,6273,self-paced on your time,hec montréal,0,beginner,business & management,2.5,5.0,12.5,149
+circular economy for a sustainable built environment,8032,self-paced on your time,delft university of technology,1,intermediate,architecture,4.0,6.0,24.0,50
+agile innovation and problem solving skills,12667,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,engineering,2.5,4.0,10.0,199
+international investment law,23335,instructor-led on a course schedule,université catholique de louvain,1,expert,law,7.0,10.0,70.0,150
+animation and cgi motion,36827,instructor-led on a course schedule,columbia university,1,expert,computer science,9.0,12.0,108.0,249
+terrorism and counterterrorism,28580,self-paced on your time,georgetown university,1,beginner,humanities,9.0,7.0,63.0,49
+découvrir le marketing,30030,instructor-led on a course schedule,université catholique de louvain,1,intermediate,business & management,4.0,10.0,40.0,150
+solar energy: photovoltaic (pv) energy conversion,38041,instructor-led on a course schedule,delft university of technology,1,expert,engineering,10.5,12.0,126.0,250
+introduction to actuarial science,52667,self-paced on your time,australian national university,1,beginner,data analysis & statistics,3.0,8.0,24.0,49
+predictionx: lost without longitude,9114,self-paced on your time,harvard university,1,beginner,history,3.5,1.0,3.5,49
+information technology foundations,6388,self-paced on your time,western governors university,1,beginner,computer science,9.5,6.0,57.0,400
+dealing with power and dynamics: discover your leadership style and influence stakeholders,16013,self-paced on your time,delft university of technology,1,intermediate,business & management,4.5,5.0,22.5,125
+instructional design and technology: learning theories,21296,instructor-led on a course schedule,university system of maryland-university of maryland global campus,1,intermediate,education & teacher training,9.0,8.0,72.0,299
+the math of data science: linear algebra,6746,self-paced on your time,rice university,1,intermediate,math,7.0,8.0,56.0,159
+the hardware of a quantum computer,20052,self-paced on your time,delft university of technology,1,intermediate,physics,7.0,6.0,42.0,79
+grabar y mezclar música,10856,self-paced on your time,berklee college of music,1,beginner,music,4.0,4.0,16.0,49
+herramientas para el análisis de big data,8118,self-paced on your time,tecnológico de monterrey,1,intermediate,data analysis & statistics,4.0,4.0,16.0,49
+foundations of central bank law,6169,self-paced on your time,the international monetary fund,0,intermediate,law,4.0,6.0,24.0,25
+c programming: modular programming and memory management,18690,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,beginner,computer science,3.0,7.0,21.0,49
+enseñanza temprana de matemáticas y ciencias,8250,self-paced on your time,inter-american development bank,0,beginner,education & teacher training,1.5,10.0,15.0,25
+entrepreneurship 102: what can you do for your customer?,11275,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,3.0,10.0,30.0,49
+italian language and culture: advanced (2019-2020),24667,self-paced on your time,wellesley college,1,expert,language,4.0,12.0,48.0,49
+origins of the human mind,11812,self-paced on your time,kyoto university,1,beginner,science,2.5,5.0,12.5,49
+introduction to geometry,61824,self-paced on your time,schoolyourself,1,beginner,math,5.0,14.0,70.0,50
+the future of work: preparing for disruption,43125,self-paced on your time,world bank group,0,beginner,economics & finance,4.0,5.0,20.0,5
+clinical reasoning process,5367,self-paced on your time,université de montréal,1,beginner,medicine,3.0,6.0,18.0,149
+datos para la efectividad de las políticas públicas,80425,self-paced on your time,inter-american development bank,0,beginner,data analysis & statistics,4.5,10.0,45.0,25
+media law,7253,instructor-led on a course schedule,new york university,1,beginner,art & culture,9.0,14.0,126.0,249
+líderes para la gestión en seguridad ciudadana y justicia,12826,self-paced on your time,inter-american development bank,0,intermediate,social sciences,4.5,10.0,45.0,25
+"diseña, fabrica y programa tu propio robot",25024,self-paced on your time,universitat politècnica de valencia,0,beginner,engineering,9.0,6.0,54.0,75
+pivoting to online teaching: research and practitioner perspectives,5289,self-paced on your time,university of texas at arlington,1,beginner,education & teacher training,4.0,6.0,24.0,139
+circular economy: an interdisciplinary approach,10281,self-paced on your time,wageningen university & research,1,expert,business & management,20.0,6.0,120.0,149
+calculus 1b: integration,44669,instructor-led on a course schedule,massachusetts institute of technology,1,intermediate,math,8.0,15.0,120.0,100
+algorithmic design and techniques,40620,self-paced on your time,"the university of california, san diego",1,intermediate,computer science,9.0,6.0,54.0,99
+drinking water treatment,51918,self-paced on your time,delft university of technology,1,intermediate,engineering,7.0,7.0,49.0,50
+fundamentos de información financiera y contable,7789,self-paced on your time,universidades anáhuac,1,intermediate,economics & finance,6.0,5.0,30.0,49
+les principes de la finance,44037,self-paced on your time,université catholique de louvain,1,intermediate,business & management,5.5,13.0,71.5,150
+music technology foundations,34550,self-paced on your time,university of adelaide,1,beginner,computer science,2.5,6.0,15.0,169
+the entrepreneurial mindset,31077,self-paced on your time,babson college,1,beginner,business & management,5.0,6.0,30.0,149
+"anatomy: gastrointestinal, reproductive and endocrine systems",26453,self-paced on your time,the university of michigan,1,beginner,biology & life sciences,2.5,5.0,12.5,49
+risk management and credit principles,9028,self-paced on your time,nyif,0,expert,economics & finance,2.5,6.0,15.0,199
+steps in japanese for beginners1 part3,6169,self-paced on your time,waseda university,1,beginner,language,4.0,5.0,20.0,99
+structural materials: selection and economics,9752,self-paced on your time,massachusetts institute of technology,1,beginner,engineering,2.5,3.0,7.5,50
+algorithm design and analysis,39137,self-paced on your time,university of pennsylvania,1,intermediate,computer science,7.0,4.0,28.0,149
+mandarin chinese for business,12384,self-paced on your time,mandarinx,0,intermediate,language,7.0,6.0,42.0,149
+bases matemáticas: números y terminología,26060,self-paced on your time,universitat politècnica de valencia,0,intermediate,math,3.5,4.0,14.0,50
+arab-islamic history: from tribes to empires,17321,self-paced on your time,israelx-tel aviv university,1,beginner,humanities,3.5,8.0,28.0,149
+human-computer interaction i: fundamentals & design principles,9010,self-paced on your time,the georgia institute of technology,1,beginner,computer science,5.5,6.0,33.0,99
+the science of parenting,37538,self-paced on your time,"the university of california, san diego",1,beginner,social sciences,4.0,5.0,20.0,49
+inclusive teaching: supporting all students in the college classroom,9899,self-paced on your time,columbia university,1,beginner,education & teacher training,2.5,6.0,15.0,49
+analytics for decision making,31031,self-paced on your time,babson college,1,beginner,business & management,5.0,4.0,20.0,249
+energy principles and renewable energy,19520,instructor-led on a course schedule,the university of queensland,1,expert,energy & earth sciences,11.0,14.0,154.0,375
+dna: biology’s genetic code,35162,self-paced on your time,rice university,1,intermediate,biology & life sciences,5.0,6.0,30.0,169
+music for wellness,19728,self-paced on your time,berklee college of music,1,beginner,humanities,4.0,4.0,16.0,49
+mining massive datasets,5311,self-paced on your time,stanford university,1,expert,computer science,7.5,7.0,52.5,149
+introduction to electrical and electronic engineering - 電気電子工学入門 -,25041,self-paced on your time,tokyo institute of technology,1,beginner,engineering,2.5,4.0,10.0,50
+introducción a la inteligencia artificial,11184,self-paced on your time,universidades anáhuac,1,beginner,computer science,4.5,4.0,18.0,49
+digital security and human rights,11443,self-paced on your time,amnesty international,0,beginner,social sciences,1.5,3.0,4.5,49
+critical thinking: reasoned decision making,6923,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+introduction to the internet of things,7581,self-paced on your time,universitat politècnica de valencia,0,beginner,electronics,5.5,6.0,33.0,50
+riñones: conoce sus funciones para mejorar tu salud y calidad de vida,20261,self-paced on your time,universidad autónoma de madrid,1,beginner,medicine,4.0,6.0,24.0,49
+design thinking: empathizing to understand the problem,13340,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,6.0,60.0,299
+marketing analytics: price and promotion analytics,41021,self-paced on your time,"university of california, berkeley",1,intermediate,computer science,6.0,4.0,24.0,249
+implementation of data structures,27761,self-paced on your time,iitbombay,1,intermediate,computer science,7.0,6.0,42.0,149
+activism and citizen journalism through media,7460,self-paced on your time,wits university,1,beginner,communication,2.5,4.0,10.0,49
+electric and conventional vehicles,22089,instructor-led on a course schedule,chalmers university of technology,1,expert,engineering,15.0,6.0,90.0,249
+big data fundamentals,40106,self-paced on your time,university of adelaide,1,intermediate,computer science,9.0,10.0,90.0,199
+sustainable food security: the value of systems thinking,26600,self-paced on your time,wageningen university & research,1,beginner,biology & life sciences,9.0,6.0,54.0,49
+knowledge management and big data in business,69064,self-paced on your time,the hong kong polytechnic university,1,beginner,business & management,7.0,8.0,56.0,50
+uso efectivo del tiempo,6409,self-paced on your time,pontificia universidad javeriana,1,beginner,economics & finance,7.0,6.0,42.0,49
+c programming: pointers and memory management,19171,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,beginner,computer science,3.0,7.0,21.0,49
+astrophysics: the violent universe,65711,self-paced on your time,australian national university,1,intermediate,physics,3.0,10.0,30.0,50
+landscape ecology,8644,self-paced on your time,eth zurich,1,intermediate,environmental studies,3.0,14.0,42.0,50
+iot programming and big data,21591,self-paced on your time,curtin university,1,beginner,computer science,5.0,5.0,25.0,199
+aws: getting started with cloud security,8192,self-paced on your time,amazon web services,0,beginner,computer science,3.0,4.0,12.0,49
+introducción a la gravedad cuántica de lazos,7360,self-paced on your time,universidad nacional de córdoba,1,beginner,science,6.0,5.0,30.0,50
+introduction to the music business,46607,self-paced on your time,berklee college of music,1,beginner,business & management,3.0,6.0,18.0,49
+introducción a la programación en c: tipos de datos y estructuras,13480,self-paced on your time,universidad autónoma de madrid,1,beginner,computer science,3.0,4.0,12.0,49
+visualización de datos y storytelling,5980,self-paced on your time,tecnológico de monterrey,1,intermediate,data analysis & statistics,4.0,4.0,16.0,49
+"feeding a hungry planet: agriculture, nutrition and sustainability",10488,self-paced on your time,sdg academy,0,intermediate,environmental studies,4.0,7.0,28.0,49
+fundamentals of financial mathematics and capital budgeting,5410,self-paced on your time,nyif,0,beginner,economics & finance,1.5,4.0,6.0,99
+gestión participativa: motivación y liderazgo organizacional,23441,self-paced on your time,universitat politècnica de valencia,0,intermediate,business & management,3.5,8.0,28.0,79
+energía eléctrica: conceptos y principios básicos,9762,self-paced on your time,tecnológico de monterrey,1,intermediate,engineering,4.5,7.0,31.5,49
+market segmentation analysis,17055,self-paced on your time,the university of queensland,1,intermediate,business & management,7.0,5.0,35.0,99
+ap® english literature & composition – part 2: poems,5719,self-paced on your time,"university of california, berkeley",1,beginner,humanities,4.5,7.0,31.5,49
+"electrical, optical & magnetic materials and devices",16905,self-paced on your time,massachusetts institute of technology,1,intermediate,engineering,10.0,16.0,160.0,150
+how to design a successful business model,33656,self-paced on your time,delft university of technology,1,beginner,business & management,3.0,8.0,24.0,99
+ecodesign for cities and suburbs,28472,self-paced on your time,university of british columbia,1,beginner,environmental studies,4.5,6.0,27.0,99
+agile software development,37158,self-paced on your time,eth zurich,1,beginner,computer science,2.5,6.0,15.0,50
+diseño de sistemas de información gerencial para intranet con microsoft access,9144,self-paced on your time,universidad del rosario,1,intermediate,computer science,8.0,4.0,32.0,49
+gestão de projetos de desenvolvimento,28337,self-paced on your time,inter-american development bank,0,beginner,business & management,3.5,10.0,35.0,49
+innovation: from plan to product,12918,self-paced on your time,the university of queensland,1,intermediate,business & management,9.0,10.0,90.0,249
+climate change: carbon capture and storage,10551,self-paced on your time,the university of edinburgh,1,beginner,engineering,2.5,5.0,12.5,49
+reservoir geomechanics,5280,self-paced on your time,stanford university,1,beginner,energy & earth sciences,4.5,10.0,45.0,129
+iot system architecture: design and evaluation,5914,self-paced on your time,waseda university,1,beginner,computer science,4.0,3.0,12.0,99
+noongar language and culture,10858,self-paced on your time,curtin university,1,beginner,language,2.5,6.0,15.0,139
+sustainable food security: food access,18943,self-paced on your time,wageningen university & research,1,beginner,social sciences,7.0,6.0,42.0,49
+bases matemáticas: integrales,23703,self-paced on your time,universitat politècnica de valencia,0,beginner,math,4.5,5.0,22.5,50
+epidemics ii,8565,self-paced on your time,university of hong kong,1,beginner,medicine,2.5,3.0,7.5,139
+derechos humanos: los derechos de las personas refugiadas,28398,self-paced on your time,amnesty international,0,beginner,humanities,4.0,3.0,12.0,49
+big data analytics,43009,self-paced on your time,university of adelaide,1,intermediate,computer science,9.0,10.0,90.0,199
+"a-level mathematics for year 13 - course 1: functions, sequences and series, and numerical methods",6594,self-paced on your time,imperial college london,1,intermediate,math,3.0,7.0,21.0,49
+ods en la agenda 2030 de las naciones unidas: retos de los objetivos de desarrollo sostenible,16028,self-paced on your time,universitat politècnica de valencia,0,beginner,social sciences,3.5,6.0,21.0,25
+fundamentals of market structure,32049,self-paced on your time,nyif,0,beginner,economics & finance,1.5,1.0,1.5,25
+protecting children in humanitarian settings,7246,self-paced on your time,columbia university,1,intermediate,social sciences,4.0,12.0,48.0,50
+how to achieve the sustainable development goals,12719,self-paced on your time,sdg academy,0,intermediate,environmental studies,5.0,7.0,35.0,49
+aprendizaje y enseñanza en la era digital,16954,self-paced on your time,universidad galileo,1,intermediate,education & teacher training,4.5,4.0,18.0,49
+from atoms to stars: how physics explains our world,15914,self-paced on your time,national research nuclear university,1,intermediate,physics,2.5,4.0,10.0,49
+"architecture, algorithms, and protocols of a quantum computer and quantum internet",8330,self-paced on your time,delft university of technology,1,intermediate,physics,7.0,6.0,42.0,79
+contemporary issues in world politics,11426,self-paced on your time,università degli studi di napoli federico ii,1,beginner,social sciences,5.0,7.0,35.0,59
+more fun with prime numbers,10604,self-paced on your time,kyoto university,1,intermediate,math,1.5,5.0,7.5,49
+enterprise selling,5020,self-paced on your time,queen’s university,1,beginner,business & management,5.0,6.0,30.0,149
+climate change: financial risks and opportunities,9977,self-paced on your time,imperial college business school-imperial college london,1,intermediate,economics & finance,6.0,4.0,24.0,79
+caer o no caer. el secreto de las estructuras.,20939,self-paced on your time,universidad carlos iii de madrid,1,beginner,engineering,2.5,8.0,20.0,29
+mandarin chinese level 2,8784,self-paced on your time,mandarinx,0,beginner,language,7.0,6.0,42.0,149
+design thinking: prototyping and user testing,10769,self-paced on your time,rochester institute of technology,1,intermediate,business & management,10.0,6.0,60.0,299
+bases matemáticas: derivadas,24301,self-paced on your time,universitat politècnica de valencia,0,beginner,math,3.5,5.0,17.5,50
+buscar en internet,27320,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,3.5,7.0,24.5,49
+big data and education,14909,self-paced on your time,university of pennsylvania,1,expert,data analysis & statistics,9.0,8.0,72.0,169
+model-based automotive systems engineering,13857,instructor-led on a course schedule,chalmers university of technology,1,expert,engineering,15.0,7.0,105.0,249
+introduction to hyperledger blockchain technologies,138884,self-paced on your time,the linux foundation,0,beginner,business & management,3.5,14.0,49.0,199
+mercados de capital y participantes claves,7210,self-paced on your time,nyif,0,beginner,economics & finance,1.5,2.0,3.0,49
+introducción al desarrollo de videojuegos con unity,27474,self-paced on your time,universitat politècnica de valencia,0,intermediate,computer science,3.5,6.0,21.0,50
+incorporating renewable energy in electricity grids,10430,self-paced on your time,imperial college london,1,intermediate,energy & earth sciences,3.5,6.0,21.0,49
+herramientas de la inteligencia de negocios,24130,self-paced on your time,universidad galileo,1,beginner,data analysis & statistics,5.5,5.0,27.5,49
+sprint planning for faster agile team delivery,10654,self-paced on your time,"the university of maryland, college park-university system of maryland",1,expert,engineering,2.5,4.0,10.0,199
+introduction to water and climate,36320,self-paced on your time,delft university of technology,1,intermediate,engineering,7.0,10.0,70.0,50
+the medieval icelandic sagas,11176,self-paced on your time,the university of iceland,1,intermediate,humanities,2.5,6.0,15.0,50
+community engagement: collaborating for change,11818,self-paced on your time,the university of michigan,1,beginner,social sciences,3.0,6.0,18.0,49
+introducción al internet de las cosas (iot),6322,self-paced on your time,universitat politècnica de valencia,0,beginner,electronics,5.5,6.0,33.0,50
+"proteins: alignment, analysis and structure",23560,instructor-led on a course schedule,university system of maryland-university of maryland global campus,1,expert,biology & life sciences,9.0,8.0,72.0,249
+ai applications with watson,9173,self-paced on your time,ibm,0,intermediate,computer science,3.0,3.0,9.0,99
+data analytics and visualization in health care,7304,self-paced on your time,rochester institute of technology,1,expert,data analysis & statistics,9.0,8.0,72.0,249
+question everything: scientific thinking in real life,34279,self-paced on your time,the university of queensland,1,beginner,math,3.0,8.0,24.0,59
+introduction to lifestyle medicine,9002,self-paced on your time,doane university,1,beginner,biology & life sciences,7.5,8.0,60.0,79
+"social work practice with individuals, families, and small groups",16134,self-paced on your time,the university of michigan,1,expert,social sciences,9.0,8.0,72.0,199
+gateway to medicine: an introduction to the field of medicine|走近医学,6938,self-paced on your time,tsinghua university,1,beginner,medicine,2.0,10.0,20.0,49
+indian & tibetan river of buddhism,6738,self-paced on your time,columbia university,1,intermediate,humanities,3.0,12.0,36.0,50
+financial analysis for decision making,39156,self-paced on your time,babson college,1,beginner,business & management,5.0,4.0,20.0,199
+lifestyle medicine treatments of chronic disease – part 1,5668,self-paced on your time,doane university,1,intermediate,medicine,12.5,2.0,25.0,179
+building containerized applications on aws,6128,self-paced on your time,amazon web services,0,intermediate,computer science,3.0,5.0,15.0,99
+biobased products for a sustainable (bio)economy,6951,self-paced on your time,delftxrwthx-delft university of technology-rwth aachen university,1,beginner,biology & life sciences,5.5,10.0,55.0,50
+social work practice: advocating social justice and change,19603,self-paced on your time,the university of michigan,1,beginner,social sciences,2.5,5.0,12.5,49
+anthropology of current world issues,44821,instructor-led on a course schedule,the university of queensland,1,beginner,humanities,3.0,9.0,27.0,99
+buyer behaviour and analysis,19717,instructor-led on a course schedule,curtin university,1,expert,communication,9.0,12.0,108.0,199
+idea development: create and implement innovative ideas,11501,self-paced on your time,the university of queensland,1,intermediate,business & management,9.0,10.0,90.0,249
+analysis of transport phenomena i: mathematical methods,9169,instructor-led on a course schedule,massachusetts institute of technology,1,expert,engineering,11.0,17.0,187.0,149
+leading the organization,14998,self-paced on your time,the university of queensland,1,intermediate,business & management,9.0,10.0,90.0,249
+"financial programming and policies, part 2: program design",19330,self-paced on your time,the international monetary fund,0,intermediate,economics & finance,7.0,7.0,49.0,25
+introduction to open source networking technologies,17436,self-paced on your time,the linux foundation,0,beginner,computer science,3.5,14.0,49.0,169
+deep learning essentials,5018,self-paced on your time,université de montréal,1,intermediate,computer science,5.0,5.0,25.0,149
+estadística aplicada a los negocios,25295,self-paced on your time,universidad galileo,1,beginner,data analysis & statistics,5.5,5.0,27.5,49
+"english for journalists, part 2",22814,self-paced on your time,"university of california, berkeley",1,intermediate,communication,3.5,5.0,17.5,49
+teaching & learning in the diverse classroom,7104,instructor-led on a course schedule,cornell university,1,beginner,education & teacher training,3.0,5.0,15.0,99
+fundamentals of microeconomics | fundamentos de microeconomía,18456,self-paced on your time,universidad carlos iii de madrid,1,beginner,social sciences,2.5,7.0,17.5,129
+iot networks and protocols,22136,self-paced on your time,curtin university,1,beginner,computer science,5.0,5.0,25.0,199
+china’s first empires and the rise of buddhism,46053,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+apnea y trastornos del sueño,14902,self-paced on your time,pontificia universidad javeriana,1,beginner,health & safety,9.5,10.0,95.0,49
+educación sobre el cambio climático,23253,self-paced on your time,inter-american development bank,0,beginner,education & teacher training,4.5,10.0,45.0,25
+urban sewage treatment,40408,self-paced on your time,delft university of technology,1,intermediate,engineering,7.0,7.0,49.0,50
+doing gender and why it matters,6826,self-paced on your time,university of hong kong,1,beginner,social sciences,1.5,6.0,9.0,99
+producción musical y su efecto en la composición,7869,self-paced on your time,berklee college of music,1,beginner,music,4.0,6.0,24.0,49
+"principle of semiconductor devices part i: semiconductors, pn junctions and bipolar junction transistors",12425,self-paced on your time,the hong kong university of science and technology,1,intermediate,electronics,3.0,8.0,24.0,70
+"19th-century opera: meyerbeer, wagner, & verdi",9340,self-paced on your time,harvard university,1,beginner,music,4.0,6.0,24.0,99
+modelos predictivos con machine learning,5102,self-paced on your time,universidades anáhuac,1,intermediate,computer science,7.0,4.0,28.0,49
+les fondements de la stratégie d’entreprise,33021,instructor-led on a course schedule,université catholique de louvain,1,beginner,business & management,4.5,10.0,45.0,150
+solar energy: integration of photovoltaic systems in microgrids,20068,instructor-led on a course schedule,delft university of technology,1,expert,engineering,10.5,9.0,94.5,250
+"automated software testing: unit testing, coverage criteria and design for testability",12630,self-paced on your time,delft university of technology,1,intermediate,computer science,4.0,5.0,20.0,99
+introducción a las ecuaciones diferenciales,9868,self-paced on your time,universidad galileo,1,intermediate,math,5.0,7.0,35.0,49
+tropical coastal ecosystems,23031,self-paced on your time,the university of queensland,1,beginner,biology & life sciences,4.5,9.0,40.5,99
+modern china’s foundations: the manchus and the qing,47166,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+aws developer: deploying on aws,25244,self-paced on your time,amazon web services,0,expert,computer science,3.5,6.0,21.0,149
+autonomous mobile robots,62362,self-paced on your time,eth zurich,1,intermediate,computer science,6.0,15.0,90.0,50
+gestión por resultados para gobiernos subnacionales,65955,self-paced on your time,inter-american development bank,0,beginner,business & management,3.5,10.0,35.0,25
+introduction to sociology,10412,self-paced on your time,the university of texas of the permian basin,1,beginner,social sciences,5.0,6.0,30.0,139
+desafios e oportunidades na economia digital,6913,self-paced on your time,inter-american development bank,0,beginner,economics & finance,2.5,10.0,25.0,25
+"cellular solids part 1: structures, properties and engineering applications",7186,self-paced on your time,massachusetts institute of technology,1,expert,engineering,12.0,9.0,108.0,99
+introduction to statistical methods for gene mapping,15419,self-paced on your time,kyoto university,1,expert,data analysis & statistics,2.5,4.0,10.0,49
+cómo vivir una vida saludable y activa,8990,self-paced on your time,universidad autónoma de madrid,1,beginner,social sciences,3.5,5.0,17.5,49
+mandarin chinese level 3,8418,self-paced on your time,mandarinx,0,intermediate,language,7.0,6.0,42.0,149
+data for effective policy making,13797,self-paced on your time,inter-american development bank,0,beginner,math,3.5,10.0,35.0,25
+c programming: using linux tools and libraries,13912,self-paced on your time,dartmouth_imtx-dartmouth college-imt,1,intermediate,computer science,4.5,7.0,31.5,49
+lernen objekt-orientierter programmierung,10657,instructor-led on a course schedule,technische universität münchen,1,beginner,computer science,4.0,6.0,24.0,49
+cybersecurity: the ciso's view,21507,self-paced on your time,university of washington,1,beginner,computer science,3.5,6.0,21.0,199
+fundamentals of java ee development,10129,self-paced on your time,red hat,0,intermediate,computer science,2.0,7.0,14.0,99
+"instructional design: digital media, new tools and technology",16419,self-paced on your time,university system of maryland-university of maryland global campus,1,intermediate,education & teacher training,9.0,8.0,72.0,299
+molecular biology – part 3: rna processing and translation,16520,self-paced on your time,massachusetts institute of technology,1,expert,biology & life sciences,6.0,8.0,48.0,99
+power and responsibility: doing philosophy with superheroes,8517,self-paced on your time,the smithsonian institution,0,beginner,art & culture,3.0,5.0,15.0,49
+aprendizaje automático y ciencia de datos,13994,self-paced on your time,universitat politècnica de valencia,0,intermediate,computer science,4.5,5.0,22.5,50
+sustainable urban freight transport: a global perspective,7769,self-paced on your time,delft university of technology,1,beginner,engineering,5.0,5.0,25.0,50
+técnicas cuantitativas y cualitativas para la investigación,29885,self-paced on your time,universitat politècnica de valencia,0,intermediate,data analysis & statistics,2.5,6.0,15.0,65
+strategic applications of it project & program management,17914,self-paced on your time,university of washington,1,beginner,business & management,3.5,6.0,21.0,199
+advanced bioconductor,26063,self-paced on your time,harvard university,1,expert,data analysis & statistics,3.0,4.0,12.0,149
+análisis e interpretación de información económica y financiera,5891,self-paced on your time,pontificia universidad javeriana,1,intermediate,economics & finance,7.0,5.0,35.0,49
+aws iot: developing and deploying an internet of things,8884,self-paced on your time,amazon web services,0,intermediate,computer science,3.5,4.0,14.0,99
+embedded systems - shape the world: multi-threaded interfacing,27814,self-paced on your time,the university of texas at austin,1,intermediate,computer science,9.0,8.0,72.0,49
+hong kong cinema through a global lens | 全球化下的香港电影,12458,instructor-led on a course schedule,university of hong kong,1,beginner,humanities,5.0,6.0,30.0,50
+image processing and analysis for life scientists,8621,self-paced on your time,école polytechnique fédérale de lausanne,1,intermediate,data analysis & statistics,2.5,7.0,17.5,199
+la protección del menor,7654,self-paced on your time,universidad autónoma de madrid,1,beginner,law,4.0,5.0,20.0,49
+globalization: past and future,10127,self-paced on your time,sdg academy,0,beginner,history,3.0,4.0,12.0,25
+star trek: inspiring culture and technology,6521,self-paced on your time,the smithsonian institution,0,beginner,history,2.0,7.0,14.0,40
+qué funciona en educación: políticas educativas basadas en evidencia,15701,self-paced on your time,inter-american development bank,0,beginner,education & teacher training,3.5,10.0,35.0,25
+tools for academic engagement in public policy,5035,self-paced on your time,massachusetts institute of technology,1,beginner,communication,2.0,3.0,6.0,199
+theory of change for development,10736,self-paced on your time,wits university,1,beginner,social sciences,3.5,7.0,24.5,199
+natural resources for sustainable development,9668,self-paced on your time,sdg academy,0,intermediate,energy & earth sciences,5.0,12.0,60.0,49
+omnichannel strategy and management,15860,self-paced on your time,dartmouth college,1,intermediate,business & management,4.0,4.0,16.0,99
+general overview of cannabis and the industry’s outlook and professions,5048,self-paced on your time,doane university,1,beginner,environmental studies,7.5,4.0,30.0,199
+amazon sagemaker: simplifying machine learning application development,11765,self-paced on your time,amazon web services,0,intermediate,computer science,3.0,4.0,12.0,99
+formulación y nomenclatura de compuestos químicos,12748,self-paced on your time,universitat politècnica de valencia,0,beginner,chemistry,3.5,6.0,21.0,49
+introducción a la factura electrónica,5829,self-paced on your time,logyca,0,intermediate,economics & finance,3.5,4.0,14.0,50
+demand and supply analytics,23585,instructor-led on a course schedule,columbia university,1,intermediate,business & management,9.0,12.0,108.0,249
+advanced algorithmics and graph theory with python,13502,self-paced on your time,imt,1,intermediate,computer science,3.0,6.0,18.0,49
+diagramas uml estructurales para la ingeniería del software,5820,self-paced on your time,universitat politècnica de valencia,0,beginner,computer science,3.5,5.0,17.5,50
+"a-level mathematics for year 12 - course 2: calculus, newton’s laws and hypothesis testing",6232,self-paced on your time,imperial college london,1,intermediate,math,3.0,7.0,21.0,49
+fundamentos de mecánica para ingeniería,14219,self-paced on your time,universitat politècnica de valencia,0,beginner,physics,3.5,6.0,21.0,49
+leadership and management for pm practitioners in it,21949,self-paced on your time,university of washington,1,beginner,business & management,3.5,6.0,21.0,199
+entrepreneurship 103: show me the money,15184,self-paced on your time,massachusetts institute of technology,1,beginner,business & management,3.0,10.0,30.0,300
+historia de la ética,9383,self-paced on your time,universidad carlos iii de madrid,1,beginner,philosophy & ethics,2.0,6.0,12.0,29
+radio para internet con podcast: creación y conceptos básicos,6460,self-paced on your time,universitat politècnica de valencia,0,beginner,communication,3.5,6.0,21.0,50
+introducción a los circuitos eléctricos,11953,self-paced on your time,universidad galileo,1,intermediate,electronics,7.0,5.0,35.0,49
+ap® physics 1: challenging concepts,12145,self-paced on your time,davidson next,0,beginner,physics,3.0,8.0,24.0,49
+introduction to java programming – part 2,71203,self-paced on your time,the hong kong university of science and technology,1,beginner,computer science,4.0,5.0,20.0,99
+ap® macroeconomics,29433,self-paced on your time,davidson next,0,beginner,economics & finance,3.0,18.0,54.0,49
+climate change education,12056,self-paced on your time,inter-american development bank,0,beginner,education & teacher training,4.5,10.0,45.0,25
+applied deep learning capstone project,8429,self-paced on your time,ibm,0,expert,data analysis & statistics,3.0,5.0,15.0,99
+fintech ethics and risks,10696,self-paced on your time,university of hong kong,1,beginner,economics & finance,3.0,6.0,18.0,199
+user experience (ux) design: human factors and culture in design | 设计的人因与文化,23828,self-paced on your time,tsinghua university,1,expert,engineering,3.0,7.0,21.0,139
+the conquest of space: space exploration and rocket science,19926,self-paced on your time,universidad carlos iii de madrid,1,beginner,engineering,3.5,7.0,24.5,129
+what works in education: evidence-based education policies,5540,self-paced on your time,inter-american development bank,0,beginner,education & teacher training,3.5,10.0,35.0,25
+electric cars: business,14199,self-paced on your time,delft university of technology,1,intermediate,business & management,4.5,4.0,18.0,50
+mechanics: momentum and energy,14846,self-paced on your time,massachusetts institute of technology,1,intermediate,physics,11.0,14.0,154.0,49
+co-creating sustainable cities,12415,self-paced on your time,delft university of technology-wageningen university & research-delft university & wageningen university,1,expert,social sciences,7.0,8.0,56.0,49
+introduction to animal ethics,6608,self-paced on your time,kyoto university,1,beginner,philosophy & ethics,2.5,5.0,12.5,49
+grant writing and crowdfunding for public libraries,12853,self-paced on your time,the university of michigan,1,beginner,humanities,2.5,4.0,10.0,49
+leading ambitious teaching and learning,24273,self-paced on your time,the university of michigan-microsoft education,1,expert,education & teacher training,3.0,6.0,18.0,199
+introducción a la estructura de la materia,11859,self-paced on your time,universitat politècnica de valencia,0,beginner,chemistry,3.5,4.0,14.0,25
+"batteries, fuel cells, and their role in modern society",11865,self-paced on your time,ural federal university,1,beginner,science,3.0,6.0,18.0,49
+communication skills for dialoguing across difference,60943,self-paced on your time,catalyst,0,beginner,communication,1.5,1.0,1.5,25
+social media: how media got social,13616,self-paced on your time,curtin university,1,beginner,communication,2.5,4.0,10.0,139
+"portfolio management, governance, & the pmo",17299,self-paced on your time,university of washington,1,beginner,business & management,3.5,6.0,21.0,199
+edx101: overview of creating an edx course,22327,self-paced on your time,edx,0,beginner,education & teacher training,1.5,1.0,1.5,99
+data analysis for decision making,8342,instructor-led on a course schedule,"the university of maryland, college park-university system of maryland",1,expert,business & management,9.0,7.0,63.0,214
+uml class diagrams for software engineering,33710,self-paced on your time,ku leuven university,1,beginner,computer science,4.5,3.0,13.5,49
+driving digital innovation through experimentation,16904,instructor-led on a course schedule,boston university,1,expert,computer science,4.0,6.0,24.0,399
+compilation basics for macroeconomic statistics,6570,self-paced on your time,the international monetary fund,0,beginner,data analysis & statistics,4.5,4.0,18.0,25
+seguridad vial en américa latina y el caribe: de la teoría a la acción,20189,self-paced on your time,inter-american development bank,0,beginner,engineering,2.5,10.0,25.0,25
+from fossil resources to biomass: a chemistry perspective,5464,self-paced on your time,wageningen university & research,1,expert,energy & earth sciences,24.0,5.0,120.0,149
+system dynamics for health sciences,15157,self-paced on your time,wits university,1,intermediate,medicine,3.0,9.0,27.0,139
+introduction to psychological research methods,17087,self-paced on your time,the university of queensland,1,beginner,humanities,1.5,7.0,10.5,99
+sustainable packaging in a circular economy,6277,self-paced on your time,delft university of technology,1,intermediate,design,3.5,6.0,21.0,50
+design in healthcare: using patient journey mapping,17946,self-paced on your time,delft university of technology,1,beginner,design,3.5,8.0,28.0,129
+"electronic, optical, and magnetic properties of materials",9717,instructor-led on a course schedule,massachusetts institute of technology,1,expert,engineering,12.0,15.0,180.0,150
+la españa del quijote,13277,self-paced on your time,universidad autónoma de madrid,1,beginner,history,6.0,7.0,42.0,19
+risk management for projects,22269,self-paced on your time,university of adelaide,1,beginner,business & management,2.5,5.0,12.5,199
+smithsonian’s objects that define america,9071,self-paced on your time,the smithsonian institution,0,beginner,humanities,1.5,5.0,7.5,50
+creating modern china: the republican period to the present,43045,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+discover political science,6573,instructor-led on a course schedule,université catholique de louvain,1,intermediate,social sciences,5.0,10.0,50.0,50
+data science: inferential thinking through simulations,17505,self-paced on your time,"university of california, berkeley",1,beginner,computer science,5.0,5.0,25.0,199
+programming for data science,41268,self-paced on your time,university of adelaide,1,beginner,computer science,9.0,10.0,90.0,199
+sensor fusion and non-linear filtering for automotive systems,9709,instructor-led on a course schedule,chalmers university of technology,1,expert,engineering,15.0,6.0,90.0,299
+first nights - berlioz’s symphonie fantastique and program music in the 19th century,8222,self-paced on your time,harvard university,1,beginner,humanities,4.0,3.0,12.0,49
+the quantum internet and quantum computers: how will they change the world?,15014,self-paced on your time,delft university of technology,1,beginner,science,2.5,6.0,15.0,50
+research methods: an engineering approach,20444,self-paced on your time,wits university,1,beginner,engineering,2.5,8.0,20.0,169
+idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,15349,self-paced on your time,universidad autónoma de madrid,1,beginner,philosophy & ethics,4.0,5.0,20.0,49
+rise to leadership: become a ceo,16719,self-paced on your time,babson college,1,intermediate,business & management,5.0,4.0,20.0,199
+building a cybersecurity toolkit,23275,self-paced on your time,university of washington,1,beginner,computer science,3.5,6.0,21.0,199
+life with diabetes,12318,self-paced on your time,curtin university,1,beginner,medicine,3.5,5.0,17.5,139
+human reproduction,5517,self-paced on your time,university of adelaide,1,intermediate,biology & life sciences,2.5,6.0,15.0,169
+enabling technologies for data science and analytics: the internet of things,71290,self-paced on your time,columbia university,1,beginner,computer science,8.5,5.0,42.5,99
+astrophysics: exploring exoplanets,48539,self-paced on your time,australian national university,1,intermediate,physics,3.0,9.0,27.0,50
+diseño y desarrollo de recursos multimedia para la enseñanza virtual,14266,self-paced on your time,universidad galileo,1,intermediate,humanities,4.5,4.0,18.0,49
+introduction to cloud foundry and cloud native software architecture,24444,self-paced on your time,the linux foundation,0,beginner,computer science,3.5,14.0,49.0,169
+the supreme court & american politics,6216,self-paced on your time,university of baltimore-university system of maryland,1,beginner,law,5.5,8.0,44.0,29
+inversión extranjera como motor del desarrollo para américa latina y el caribe,16423,self-paced on your time,inter-american development bank,0,intermediate,business & management,3.5,10.0,35.0,25
+liderazgo en la empresa familiar,10969,self-paced on your time,tecnológico de monterrey,1,intermediate,business & management,7.5,6.0,45.0,49
+comparative political systems,6934,self-paced on your time,università degli studi di napoli federico ii,1,beginner,social sciences,5.0,6.0,30.0,59
+cloud computing for enterprises,27241,instructor-led on a course schedule,university system of maryland-university of maryland global campus,1,intermediate,computer science,9.0,8.0,72.0,299
+diversity and social justice in social work,11055,self-paced on your time,the university of michigan,1,expert,social sciences,9.0,8.0,72.0,199
+public library marketing and public relations,7525,self-paced on your time,the university of michigan,1,beginner,humanities,2.5,4.0,10.0,49
+"healthcare finance, economics and risk",8006,self-paced on your time,doane university,1,intermediate,economics & finance,7.5,5.0,37.5,199
+reacciones químicas y cálculos estequiométricos,8907,self-paced on your time,universitat politècnica de valencia,0,beginner,chemistry,3.5,6.0,21.0,49
+seeking women’s rights: colonial period to the civil war,5157,self-paced on your time,columbia university,1,intermediate,history,2.5,10.0,25.0,50
+videox: creating video for the edx platform,12159,self-paced on your time,edx,0,beginner,education & teacher training,3.0,2.0,6.0,99
+sustainable development: the post-capitalist order,7031,self-paced on your time,sdg academy,0,beginner,economics & finance,3.0,8.0,24.0,49
+"health law, policy, and advocacy",6358,self-paced on your time,doane university,1,intermediate,law,7.5,5.0,37.5,199
+understanding nuclear energy,16015,self-paced on your time,delft university of technology,1,intermediate,engineering,5.0,6.0,30.0,50
+cómo convertirse en un líder exitoso (entrenamiento de liderazgo inclusivo),11431,self-paced on your time,catalyst,0,beginner,business & management,1.5,4.0,6.0,50
+ap® calculus bc,8542,self-paced on your time,davidson next,0,beginner,math,3.0,11.0,33.0,49
+entrepreneurial opportunities,27182,self-paced on your time,university of adelaide,1,beginner,business & management,2.5,5.0,12.5,50
+agua en américa latina: abundancia en medio de la escasez mundial,38581,self-paced on your time,inter-american development bank,0,beginner,environmental studies,3.5,10.0,35.0,25
+understanding political concepts,7421,self-paced on your time,università degli studi di napoli federico ii,1,beginner,social sciences,5.0,6.0,30.0,59
+how to code: complex data,34190,self-paced on your time,university of british columbia,1,beginner,computer science,2.5,6.0,15.0,125
+hypersonics – from shock waves to scramjets,19043,self-paced on your time,the university of queensland,1,expert,engineering,6.0,4.0,24.0,99
+micro and nanofabrication (mems),16094,self-paced on your time,école polytechnique fédérale de lausanne,1,expert,engineering,4.0,7.0,28.0,199
+scientific methods and research,7501,self-paced on your time,ural federal university,1,intermediate,science,3.5,5.0,17.5,49
+customer centric marketing for entrepreneurs,14003,self-paced on your time,babson college,1,intermediate,business & management,5.0,4.0,20.0,149
+dog behavior: problems and solutions,16467,self-paced on your time,arizona state university,1,intermediate,social sciences,7.0,3.0,21.0,169
+the business of mining,20406,self-paced on your time,curtin university,1,beginner,business & management,2.5,4.0,10.0,139
+"social work practice in community organization, management and policy/evaluation",9522,self-paced on your time,the university of michigan,1,expert,social sciences,9.0,8.0,72.0,199
+understanding the australian health care system,8343,self-paced on your time,the university of queensland,1,beginner,medicine,1.5,9.0,13.5,59
+age of sustainable development,10019,self-paced on your time,sdg academy,0,intermediate,social sciences,5.0,14.0,70.0,49
+multi-object tracking for automotive systems,8581,instructor-led on a course schedule,chalmers university of technology,1,expert,engineering,15.0,10.0,150.0,249
+strategic leadership in healthcare,6237,self-paced on your time,doane university,1,intermediate,business & management,7.5,5.0,37.5,199
+terrorism and counterterrorism: an introduction,14128,self-paced on your time,georgetown university,1,beginner,humanities,9.0,3.0,27.0,49
+exploring psychology's core concepts|走进心理学,5741,self-paced on your time,tsinghua university,1,beginner,social sciences,4.0,6.0,24.0,139
+creating virtual reality (vr) apps,22349,self-paced on your time,"the university of california, san diego",1,intermediate,computer science,6.0,6.0,36.0,99
+dynamics and control,27763,self-paced on your time,universitat politècnica de valencia,0,beginner,engineering,4.5,6.0,27.0,50
+finding your cybersecurity career path,19283,self-paced on your time,university of washington,1,beginner,computer science,3.5,6.0,21.0,199
+introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,12674,self-paced on your time,universidad carlos iii de madrid,1,beginner,humanities,3.5,6.0,21.0,29
+mechanics: rotational dynamics,13183,self-paced on your time,massachusetts institute of technology,1,intermediate,physics,11.0,12.0,132.0,49
+liderazgo orientado al florecimiento humano,7911,self-paced on your time,tecnológico de monterrey,1,beginner,business & management,6.5,4.0,26.0,149
+software construction: object-oriented design,23100,self-paced on your time,university of british columbia,1,intermediate,computer science,9.0,6.0,54.0,125
+the civil war and reconstruction - 1861 - 1865: a new birth of freedom,17941,self-paced on your time,columbia university,1,beginner,history,7.0,12.0,84.0,50
+designing and leading learning systems,11895,self-paced on your time,the university of michigan,1,expert,education & teacher training,3.0,8.0,24.0,199
+how the u.s. government works & how to get involved,5930,self-paced on your time,georgetown university,1,beginner,social sciences,4.5,6.0,27.0,49
+inspiring and motivating arts and culture teams,10817,self-paced on your time,the university of michigan,1,beginner,business & management,4.0,5.0,20.0,49
+a system view of communications: from signals to packets (part 1),34261,self-paced on your time,the hong kong university of science and technology,1,beginner,computer science,5.0,7.0,35.0,60
+"invasions, rebellions, and the fall of imperial china",41537,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+ap® english literature & composition – part 3: plays,6443,self-paced on your time,"university of california, berkeley",1,beginner,humanities,4.5,7.0,31.5,49
+cómo implantar grupos de mejora de procesos,28100,self-paced on your time,universitat politècnica de valencia,0,beginner,business & management,3.5,8.0,28.0,150
+proteins: biology's workforce,25893,self-paced on your time,rice university,1,intermediate,biology & life sciences,5.0,5.0,25.0,169
+introducción a los ritmos y relojes biológicos,6149,self-paced on your time,universidad nacional de córdoba,1,beginner,science,7.0,4.0,28.0,50
+"fundamentals of biomedical imaging: ultrasounds, x-ray, positron emission tomography (pet) and applications",10205,self-paced on your time,école polytechnique fédérale de lausanne,1,expert,engineering,4.5,7.0,31.5,169
+fundamentos de electromagnetismo para ingeniería,15040,self-paced on your time,universitat politècnica de valencia,0,beginner,physics,4.5,7.0,31.5,49
+sustainable food systems: a mediterranean perspective,6480,self-paced on your time,sdg academy,0,intermediate,food & nutrition,3.0,10.0,30.0,49
+using gpus to scale and speed-up deep learning,9294,self-paced on your time,ibm,0,intermediate,data analysis & statistics,3.0,5.0,15.0,99
+studiox: creating a course with edx studio,20355,self-paced on your time,edx,0,beginner,education & teacher training,5.0,3.0,15.0,99
+introducción a las ondas gravitacionales,8657,self-paced on your time,universidad nacional de córdoba,1,beginner,science,6.0,4.0,24.0,50
+global china: from the mongols to the ming,41902,self-paced on your time,harvard university,1,beginner,history,2.0,15.0,30.0,139
+computational neuroscience: neuronal dynamics of cognition,11246,self-paced on your time,école polytechnique fédérale de lausanne,1,expert,biology & life sciences,5.0,6.0,30.0,139
+cities and the challenge of sustainable development,8775,self-paced on your time,sdg academy,0,beginner,environmental studies,1.5,1.0,1.5,25

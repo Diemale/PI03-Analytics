@@ -1,0 +1,606 @@
+,name,institution,is_university,level,students,rating,first_review_on
+0,machine learning,stanford university,1,mixed,222478,4.8,2015-08-07
+1,indigenous canada,university of alberta,1,mixed,51000,4.8,2017-04-09
+2,the science of well-being,yale university,1,mixed,2500000,4.9,2018-03-29
+3,technical support fundamentals,google,0,beginner,280000,4.8,2018-01-16
+4,become a cbrs certified professional installer by google,google - spectrum sharing,0,mixed,210000,4.9,2019-06-07
+5,financial markets,yale university,1,beginner,470000,4.8,2017-07-14
+6,introduction to psychology,yale university,1,beginner,270000,4.8,2018-11-21
+7,programming for everybody (getting started with python),university of michigan,1,mixed,1300000,4.6,2015-09-15
+8,the bits and bytes of computer networking,google,0,beginner,130000,4.6,2018-01-25
+9,ai for everyone,deeplearning.ai,0,beginner,350000,4.8,2019-02-28
+10,crash course on python,google,0,beginner,81000,4.7,2020-01-17
+11,psychological first aid,johns hopkins university,1,mixed,190000,4.9,2016-01-13
+12,neural networks and deep learning,deeplearning.ai,0,intermediate,630000,4.8,2017-08-09
+13,what is data science?,ibm,0,beginner,260000,4.6,2018-03-28
+14,successful negotiation: essential strategies and skills,university of michigan,1,mixed,750000,4.8,2015-08-07
+15,fundamentals of project planning and management,university of virginia,1,beginner,120000,4.8,2015-11-04
+16,project launch,"university of california, irvine",1,beginner,190000,4.4,2017-10-13
+17,"brand management: aligning business, brand and behaviour",london business school,1,beginner,57000,4.9,2018-03-22
+18,writing in the sciences,stanford university,1,beginner,140000,4.9,2017-09-17
+19,stanford introduction to food and health,stanford university,1,beginner,370000,4.7,2016-01-18
+20,"html, css, and javascript for web developers",johns hopkins university,1,mixed,240000,4.8,2016-02-16
+21,excel skills for business: essentials,macquarie university,1,beginner,200000,4.9,2017-11-06
+22,introduction to negotiation: a strategic playbook for becoming a principled and persuasive negotiator,yale university,1,-,0,4.9,2015-08-07
+23,"everyday excel, part 1",university of colorado boulder,1,beginner,11000,4.8,2020-04-07
+24,learning how to learn: powerful mental tools to help you master tough subjects,university of california san diego,1,-,0,4.8,2015-08-07
+25,google cloud platform fundamentals: core infrastructure,google cloud,0,-,0,4.7,2016-12-21
+26,viral marketing and how to craft contagious content,university of pennsylvania,1,mixed,150000,4.8,2015-11-29
+27,python data structures,university of michigan,1,mixed,420000,4.8,2015-09-03
+28,private equity and venture capital,università bocconi,1,mixed,79000,4.8,2015-10-14
+29,first step korean,yonsei university,1,beginner,400000,4.9,2016-02-09
+30,"introduction to tensorflow for artificial intelligence, machine learning, and deep learning",deeplearning.ai,0,intermediate,150000,4.7,2019-03-07
+31,operating systems and you: becoming a power user,google,0,beginner,76000,4.5,2018-01-25
+32,tools for data science,ibm,0,beginner,120000,4.0,2018-07-07
+33,"improving deep neural networks: hyperparameter tuning, regularization and optimization",deeplearning.ai,0,beginner,270000,4.8,2017-08-12
+34,diversity and inclusion in the workplace,essec business school,1,-,0,4.7,2017-04-13
+35,design and interpretation of clinical trials,johns hopkins university,1,mixed,67000,4.7,2016-03-12
+36,visual elements of user interface design,california institute of the arts,1,-,0,4.6,2018-09-29
+37,management of fashion and luxury companies,università bocconi,1,mixed,120000,4.7,2015-08-14
+38,primeros auxilios psicológicos (pap),universitat autònoma de barcelona,0,mixed,280000,4.9,2015-10-07
+39,social psychology,wesleyan university,1,beginner,220000,4.9,2018-10-28
+40,initiating and planning projects,"university of california, irvine",1,mixed,180000,4.7,2015-08-07
+41,computational thinking for problem solving,university of pennsylvania,1,beginner,33000,4.7,2018-10-24
+42,agile with atlassian jira,atlassian,0,beginner,40000,4.7,2018-08-14
+43,fundamentals of graphic design,california institute of the arts,1,beginner,290000,4.8,2015-10-15
+44,introduction to user experience design,georgia institute of technology,1,beginner,87000,4.5,2016-07-26
+45,introduction to marketing,university of pennsylvania,1,mixed,220000,4.7,2015-11-05
+46,python for data science and ai,ibm,0,beginner,170000,4.3,2018-06-06
+47,marketing analytics,university of virginia,1,-,0,4.7,2015-11-11
+48,natural language processing with classification and vector spaces,deeplearning.ai,0,-,0,4.4,2020-06-19
+49,fundamentals of quantitative modeling,university of pennsylvania,1,mixed,110000,4.6,2016-02-09
+50,how to manage a remote team,gitlab,0,-,0,5.0,2020-09-23
+51,mathematics for machine learning: linear algebra,imperial college london,1,beginner,140000,4.6,2018-03-08
+52,introduction to data science in python,university of michigan,1,intermediate,390000,4.2,2016-10-27
+53,customer analytics,university of pennsylvania,1,-,0,4.4,2015-09-18
+54,introduction to psychology,university of toronto,1,-,0,4.9,2016-10-20
+55,english for career development,university of pennsylvania,1,mixed,760000,4.9,2016-10-10
+56,global diplomacy – diplomacy in the modern world,university of london,1,-,0,4.6,2016-04-02
+57,sql for data science,"university of california, davis",1,beginner,160000,4.5,2017-11-17
+58,write professional emails in english,georgia institute of technology,1,mixed,270000,4.8,2016-02-13
+59,medical neuroscience,duke university,1,expert,170000,4.9,2016-06-06
+60,system administration and it infrastructure services,google,0,beginner,62000,4.7,2018-01-25
+61,international women's health and human rights,stanford university,1,beginner,35000,4.9,2017-07-12
+62,child nutrition and cooking,stanford university,1,beginner,30000,4.7,2015-08-07
+63,understanding the brain: the neurobiology of everyday life,the university of chicago,1,beginner,130000,4.9,2016-10-09
+64,introduction to social media marketing,facebook,0,-,0,4.9,2020-09-18
+65,forensic accounting and fraud examination,west virginia university,1,mixed,42000,4.7,2016-02-03
+66,clinical terminology for international and u.s. students,university of pittsburgh,1,beginner,32000,4.8,2016-11-28
+67,science of exercise,university of colorado boulder,1,beginner,140000,4.9,2017-06-22
+68,digital product management: modern fundamentals,university of virginia,1,beginner,58000,4.7,2017-05-01
+69,data science math skills,duke university,1,beginner,140000,4.5,2017-01-15
+70,structuring machine learning projects,deeplearning.ai,0,beginner,220000,4.7,2017-08-11
+71,an introduction to american law,university of pennsylvania,1,beginner,23000,4.9,2015-09-13
+72,the strategy of content marketing,"university of california, davis",1,intermediate,100000,4.5,2017-02-06
+73,introduction to cybersecurity tools & cyber attacks,ibm,0,beginner,30000,4.3,2019-07-19
+74,the data scientist’s toolbox,johns hopkins university,1,mixed,420000,4.5,2015-12-01
+75,animal behaviour and welfare,the university of edinburgh,1,mixed,71000,4.8,2015-11-02
+76,convolutional neural networks in tensorflow,deeplearning.ai,0,intermediate,46000,4.5,2019-04-21
+77,positive psychology: martin e. p. seligman’s visionary science,university of pennsylvania,1,beginner,50000,4.9,2017-04-02
+78,introduction to the biology of cancer,johns hopkins university,1,beginner,110000,4.8,2016-04-11
+79,convolutional neural networks,deeplearning.ai,0,intermediate,240000,3.9,2017-11-03
+80,using python to access web data,university of michigan,1,mixed,310000,4.7,2015-10-27
+81,introductory human physiology,duke university,1,mixed,270000,4.8,2015-08-07
+82,introduction to systematic review and meta-analysis,johns hopkins university,1,mixed,67000,4.8,2016-03-22
+83,communication strategies for a virtual age,university of toronto,1,beginner,43000,4.9,2018-08-28
+84,moral foundations of politics,yale university,1,mixed,100000,4.9,2015-08-14
+85,étudier en france: french intermediate course b1-b2,école polytechnique,1,intermediate,190000,4.8,2016-12-09
+86,managing the company of the future,london business school,1,-,0,4.8,2016-01-25
+87,finance for non-finance professionals,rice university,1,beginner,69000,4.8,2016-10-14
+88,site reliability engineering: measuring and managing reliability,google cloud,0,expert,16000,4.3,2019-02-15
+89,autism spectrum disorder,"university of california, davis",1,mixed,56000,4.7,2015-12-18
+90,data science methodology,ibm,0,beginner,89000,4.3,2018-04-20
+91,introduction to financial accounting,university of pennsylvania,1,mixed,200000,4.8,2015-11-04
+92,marketing in a digital world,university of illinois at urbana-champaign,1,beginner,310000,4.7,2015-08-07
+93,wind energy,technical university of denmark (dtu),1,-,0,4.7,2016-03-03
+94,principles of sustainable finance,erasmus university rotterdam,1,-,0,4.9,2020-05-18
+95,financial engineering and risk management part i,columbia university,1,mixed,100000,4.4,2015-08-08
+96,introduction to philosophy,the university of edinburgh,1,mixed,370000,4.7,2015-08-07
+97,business metrics for data-driven companies,duke university,1,-,0,4.6,2015-09-06
+98,python basics,university of michigan,1,beginner,110000,4.8,2018-12-14
+99,introduction to sustainability,university of illinois at urbana-champaign,1,mixed,69000,4.8,2015-08-29
+100,positive psychiatry and mental health,the university of sydney,1,mixed,72000,4.9,2017-08-03
+101,cryptography i,stanford university,1,-,0,4.8,2016-02-16
+102,learning to teach online,unsw sydney (the university of new south wales),1,beginner,68000,4.8,2016-10-13
+103,it security: defense against the digital dark arts,google,0,beginner,62000,4.8,2018-01-28
+104,entreprise et changement climatique,essec business school,1,-,0,5.0,2020-09-30
+105,an introduction to consumer neuroscience & neuromarketing,copenhagen business school,1,beginner,69000,4.7,2016-10-05
+106,gamification,university of pennsylvania,1,mixed,110000,4.8,2015-11-09
+107,contabilidad para no contadores,universidad nacional autónoma de méxico,1,beginner,220000,4.8,2016-11-24
+108,using python to interact with the operating system,google,0,beginner,19000,4.6,2020-01-18
+109,object-oriented data structures in c++,university of illinois at urbana-champaign,1,intermediate,21000,4.6,2019-03-05
+110,google cloud platform big data and machine learning fundamentals,google cloud,0,intermediate,120000,4.6,2017-03-10
+111,databases and sql for data science,ibm,0,beginner,110000,4.4,2018-06-18
+112,natural language processing in tensorflow,deeplearning.ai,0,intermediate,40000,4.2,2019-06-20
+113,"advanced valuation and strategy - m&a, private equity, and venture capital",erasmus university rotterdam,1,expert,29000,4.6,2018-09-20
+114,natural language processing with probabilistic models,deeplearning.ai,0,-,0,4.6,2020-06-27
+115,vital signs: understanding what the body is telling us,university of pennsylvania,1,mixed,190000,4.8,2016-03-02
+116,understanding research methods,university of london,1,-,0,4.6,2015-08-12
+117,ibm customer engagement specialist professional certificate,ibm,0,beginner,3300,4.9,2018-10-27
+118,introduction to calculus,the university of sydney,1,intermediate,53000,4.9,2018-12-28
+119,camino a la excelencia en gestión de proyectos,pontificia universidad católica de chile,1,beginner,340000,4.6,2016-10-02
+120,introduction to html5,university of michigan,1,mixed,220000,4.0,2015-09-06
+121,wine tasting: sensory techniques for wine analysis,"university of california, davis",1,beginner,32000,4.3,2017-01-18
+122,excel skills for business: intermediate i,macquarie university,1,intermediate,76000,4.9,2017-11-09
+123,"programming foundations with javascript, html and css",duke university,1,beginner,250000,4.5,2015-09-17
+124,build a modern computer from first principles: from nand to tetris (project-centered course),hebrew university of jerusalem,1,mixed,95000,4.9,2016-02-19
+125,food & beverage management,università bocconi,1,mixed,57000,4.8,2015-09-14
+126,data analysis with python,ibm,0,beginner,110000,4.5,2018-05-11
+127,project planning,"university of california, irvine",1,-,0,4.3,2017-10-19
+128,agile meets design thinking,university of virginia,1,beginner,69000,4.8,2016-02-21
+129,aws fundamentals: going cloud-native,amazon web services,0,beginner,110000,4.7,2018-11-18
+130,construction project management,columbia university,1,beginner,43000,4.8,2016-09-29
+131,introduction to mathematical thinking,stanford university,1,intermediate,270000,4.8,2017-01-11
+132,everyday parenting: the abcs of child rearing,yale university,1,beginner,86000,4.9,2017-08-17
+133,introduction to healthcare,stanford university,1,-,0,4.0,2020-09-09
+134,machine learning with python,ibm,0,intermediate,120000,4.5,2018-08-21
+135,terrorism and counterterrorism: comparing theory and practice,universiteit leiden,0,beginner,90000,4.7,2015-08-07
+136,data management for clinical research,vanderbilt university,1,beginner,42000,4.8,2016-07-08
+137,sustainable fashion,copenhagen business school,1,-,0,4.8,2019-12-05
+138,foundations of data science: k-means clustering in python,university of london,1,-,0,4.7,2019-06-04
+139,instructional design foundations and applications,university of illinois at urbana-champaign,1,mixed,12000,3.7,2019-01-14
+140,cursos en línea: modelo para armar,universidad nacional autónoma de méxico,1,-,0,5.0,2020-08-31
+141,modern art & ideas,the museum of modern art,0,beginner,310000,4.8,2015-09-03
+142,"speak english professionally: in person, online & on the phone",georgia institute of technology,1,mixed,430000,4.8,2016-03-14
+143,essential google cloud infrastructure: foundation,google cloud,0,intermediate,83000,4.7,2017-06-30
+144,introduction to artificial intelligence (ai),ibm,0,beginner,44000,4.8,2019-06-28
+145,dog emotion and cognition,duke university,1,mixed,150000,4.6,2015-08-12
+146,international leadership and organizational behavior,università bocconi,1,mixed,41000,4.8,2015-11-06
+147,driving business towards the sustainable development goals,erasmus university rotterdam,1,beginner,5600,4.9,2019-07-13
+148,"the sustainable development goals – a global, transdisciplinary vision for the future",university of copenhagen,1,beginner,26000,4.8,2018-02-03
+149,digital transformation,bcg,0,-,0,4.8,2018-02-28
+150,sequence models,deeplearning.ai,0,intermediate,14000,4.6,2018-02-01
+151,devenir entrepreneur du changement,hec paris,1,-,0,4.8,2015-09-05
+152,seeing through photographs,the museum of modern art,0,-,0,4.8,2016-02-10
+153,entrepreneurship 1: developing the opportunity,university of pennsylvania,1,mixed,86000,4.8,2016-02-10
+154,introduction to search engine optimization,"university of california, davis",1,-,0,4.6,2016-02-09
+155,learn to speak korean 1,yonsei university,1,beginner,120000,4.9,2016-07-27
+156,drug development,university of california san diego,1,-,0,4.6,2016-11-13
+157,r programming,johns hopkins university,1,intermediate,480000,4.2,2015-12-06
+158,economics of money and banking,columbia university,1,mixed,83000,5.0,2016-09-18
+159,chinese for beginners,peking university,1,-,0,4.8,2015-08-07
+160,grammar and punctuation,"university of california, irvine",1,mixed,430000,4.8,2015-09-04
+161,japanese for beginners 1,saint petersburg state university,1,beginner,4400,3.4,2020-05-18
+162,introduction to english common law,university of london,1,-,0,4.8,2018-10-12
+163,introduction to dental medicine,university of pennsylvania,1,beginner,25000,4.9,2016-05-31
+164,fundamentals of reinforcement learning,alberta machine intelligence institute,1,-,0,4.7,2019-07-30
+165,the power of macroeconomics: economic principles in the real world,"university of california, irvine",1,mixed,180000,4.6,2015-08-08
+166,corporate sustainability. understanding and seizing the strategic opportunity,università bocconi,1,mixed,10000,4.6,2018-04-16
+167,behavioral finance,duke university,1,mixed,55000,4.1,2016-08-02
+168,"sequences, time series and prediction",deeplearning.ai,0,-,0,4.5,2019-07-31
+169,supply chain logistics,rutgers the state university of new jersey,1,beginner,66000,4.7,2016-09-04
+170,project execution,"university of california, irvine",1,beginner,70000,3.9,2017-12-21
+171,nutrición y obesidad: control de sobrepeso,universidad nacional autónoma de méxico,1,beginner,100000,4.8,2019-01-04
+172,microeconomics principles,university of illinois at urbana-champaign,1,beginner,73000,4.8,2016-06-21
+173,creative writing: the craft of plot,wesleyan university,1,mixed,120000,4.7,2016-02-07
+174,astronomy: exploring time and space,university of arizona,1,-,0,4.9,2015-08-20
+175,oil & gas industry operations and markets,duke university,1,mixed,57000,4.8,2016-01-07
+176,design thinking for innovation,university of virginia,1,beginner,240000,4.7,2015-10-27
+177,edivet: do you have what it takes to be a veterinarian?,the university of edinburgh,1,-,0,4.7,2015-08-15
+178,learn to program: the fundamentals,university of toronto,1,beginner,180000,4.7,2016-09-29
+179,financial accounting fundamentals,university of virginia,1,beginner,65000,4.8,2017-04-21
+180,finding purpose and meaning in life: living for what matters most,university of michigan,1,beginner,36000,4.8,2020-04-21
+181,understanding clinical research: behind the statistics,university of cape town,1,mixed,78000,4.8,2015-12-02
+182,epidemiology: the basic science of public health,the university of north carolina at chapel hill,1,mixed,130000,4.7,2015-08-08
+183,fashion as design,the museum of modern art,0,beginner,180000,4.8,2017-09-30
+184,teamwork skills: communicating effectively in groups,university of colorado boulder,1,beginner,49000,4.8,2017-07-31
+185,feminism and social justice,"university of california, santa cruz",1,beginner,18000,4.8,2019-03-12
+186,international organizations management,university of geneva,1,beginner,20000,4.8,2018-05-21
+187,marketing digital,universidade de são paulo,1,beginner,81000,4.8,2018-04-02
+188,fundamentals of gis,"university of california, davis",1,beginner,86000,4.9,2016-02-22
+189,e-learning ecologies: innovative approaches to teaching and learning for the digital age,university of illinois at urbana-champaign,1,mixed,17000,4.5,2016-11-17
+190,"excel/vba for creative problem solving, part 1",university of colorado boulder,1,beginner,54000,4.9,2017-12-31
+191,rethinking international tax law,universiteit leiden,0,mixed,36000,4.8,2015-11-20
+192,introduction to probability and data with r,duke university,1,-,0,4.6,2016-04-13
+193,understanding and visualizing data with python,university of michigan,1,beginner,30000,4.6,2018-12-31
+194,fundamentals of visualization with tableau,"university of california, davis",1,beginner,81000,4.4,2016-08-24
+195,getting started with sas programming,sas,1,beginner,22000,4.9,2018-11-12
+196,machine learning for all,university of london,1,beginner,19000,4.7,2019-12-09
+197,using databases with python,university of michigan,1,mixed,220000,4.7,2015-12-14
+198,addiction treatment: clinical skills for healthcare providers,yale university,1,beginner,9200,4.9,2020-01-18
+199,dino 101: dinosaur paleobiology,university of alberta,1,beginner,35000,4.9,2016-09-18
+200,sports marketing,northwestern university,1,intermediate,12000,4.7,2018-12-09
+201,positive psychology,the university of north carolina at chapel hill,1,mixed,180000,4.7,2015-08-14
+202,introduction to programming with matlab,vanderbilt university,1,beginner,270000,4.8,2016-04-30
+203,preparing to manage human resources,university of minnesota,1,mixed,68000,4.9,2016-02-12
+204,solar energy basics,the state university of new york,1,beginner,17000,4.8,2019-06-25
+205,front-end web ui frameworks and tools: bootstrap 4,the hong kong university of science and technology,1,intermediate,89000,4.8,2017-07-01
+206,building scalable java microservices with spring boot and spring cloud,google cloud,0,intermediate,24000,4.0,2019-02-27
+207,introduction to forensic science,"nanyang technological university, singapore",1,mixed,47000,4.8,2016-06-30
+208,google cloud product fundamentals,google cloud,0,-,0,4.7,2020-03-06
+209,american contract law i,yale university,1,beginner,18000,4.8,2019-01-31
+210,engineering health: introduction to yoga and physiology,new york university,1,beginner,14000,4.6,2019-10-07
+211,ai for medical diagnosis,deeplearning.ai,0,intermediate,12000,4.6,2020-04-16
+212,natural language processing with sequence models,deeplearning.ai,0,-,0,4.0,2020-07-29
+213,introduction to electronics,georgia institute of technology,1,mixed,110000,4.7,2016-05-31
+214,international humanitarian law in theory and practice,universiteit leiden,0,-,0,4.8,2018-11-28
+215,making architecture,ie school of architecture & design,1,beginner,43000,4.8,2016-10-05
+216,model thinking,university of michigan,1,mixed,130000,4.8,2015-10-07
+217,supporting children with difficulties in reading and writing,university of london,1,-,0,4.8,2015-09-03
+218,innovation management,erasmus university rotterdam,1,beginner,40000,4.7,2016-04-23
+219,the manager's toolkit: a practical guide to managing people at work,"birkbeck, university of london",1,mixed,47000,4.7,2016-08-17
+220,"the modern world, part one: global history from 1760 to 1910",university of virginia,1,beginner,130000,4.8,2015-08-28
+221,supply chain principles,georgia institute of technology,1,mixed,29000,4.6,2017-04-25
+222,essential google cloud infrastructure: core services,google cloud,0,intermediate,68000,4.7,2017-07-06
+223,weight management: beyond balancing calories,emory university,1,beginner,34000,4.8,2019-03-19
+224,miracles of human language: an introduction to linguistics,universiteit leiden,0,beginner,120000,4.7,2016-05-09
+225,java programming: solving problems with software,duke university,1,beginner,160000,4.5,2015-10-16
+226,race and cultural diversity in american life and history,university of illinois at urbana-champaign,1,-,0,4.4,2018-02-08
+227,inspiring and motivating individuals,university of michigan,1,mixed,85000,4.8,2015-09-15
+228,"competencias digitales. herramientas de ofimática (microsoft word, excel, power point)",universitat autònoma de barcelona,0,beginner,43000,4.8,2019-07-02
+229,healing with the arts,university of florida,1,mixed,39000,4.7,2017-03-02
+230,people analytics,university of pennsylvania,1,mixed,84000,4.5,2015-12-09
+231,what is social?,northwestern university,1,mixed,94000,4.6,2015-09-17
+232,ux design fundamentals,california institute of the arts,1,beginner,25000,4.8,2018-11-14
+233,creative thinking: techniques and tools for success,imperial college london,1,-,0,4.7,2020-02-19
+234,introduction to classical music,yale university,1,mixed,150000,4.9,2015-12-16
+235,children's human rights - an interdisciplinary introduction,university of geneva,1,-,0,4.6,2017-01-08
+236,investment management in an evolving and volatile world by hec paris and axa investment managers,hec paris,1,-,0,4.6,2016-04-14
+237,introduction to data analysis using excel,rice university,1,mixed,99000,4.7,2016-09-26
+238,mind control: managing your mental health during covid-19,university of toronto,1,-,0,4.8,2020-03-28
+239,introduction to international criminal law,case western reserve university,1,mixed,82000,4.8,2015-08-07
+240,"fintech: foundations, payments, and regulations",university of pennsylvania,1,beginner,12000,4.6,2019-06-05
+241,greek and roman mythology,university of pennsylvania,1,mixed,260000,4.8,2016-02-26
+242,politics and economics of international energy,sciences po,1,beginner,34000,4.7,2016-05-09
+243,continuous delivery & devops,university of virginia,1,beginner,26000,4.5,2018-11-03
+244,teach english now! foundational principles,arizona state university,1,mixed,81000,4.9,2015-10-12
+245,business model innovation,hec paris,1,mixed,13000,4.7,2016-05-12
+246,introduction to user experience principles and processes,university of michigan,1,beginner,16000,4.8,2018-12-12
+247,beyond the sustainable development goals (sdgs): addressing sustainability and development,university of michigan,1,mixed,2300,4.8,2020-04-24
+248,process mining: data science in action,eindhoven university of technology,1,intermediate,39000,4.8,2016-04-24
+249,fundamentals of immunology: innate immunity and b-cell function,rice university,1,intermediate,18000,4.8,2019-02-06
+250,introduction to corporate finance,university of pennsylvania,1,mixed,130000,4.4,2015-11-09
+251,global diplomacy: the united nations in the world,university of london,1,-,0,4.7,2017-06-24
+252,algorithmic toolbox,university of california san diego,1,intermediate,220000,4.5,2016-02-17
+253,troubles du spectre de l'autisme : diagnostic,university of geneva,1,intermediate,5400,4.8,2020-01-03
+254,anatomy: musculoskeletal and integumentary systems,university of michigan,1,beginner,20000,4.9,2019-01-28
+255,a crash course in causality:  inferring causal effects from observational data,university of pennsylvania,1,intermediate,17000,4.7,2017-07-01
+256,english for business and entrepreneurship,university of pennsylvania,1,beginner,230000,4.9,2016-05-15
+257,natural language processing with attention models,deeplearning.ai,0,-,0,3.3,2020-09-25
+258,what is compliance?,university of pennsylvania,1,mixed,6200,4.8,2019-04-10
+259,getting started with google sheets,google cloud,0,beginner,18000,4.7,2019-11-05
+260,data visualization with python,ibm,0,intermediate,66000,4.1,2018-06-16
+261,foundations of mindfulness,rice university,1,-,0,4.8,2020-07-09
+262,negociación exitosa: estrategias y habilidades esenciales (en español),university of michigan,1,mixed,95000,4.8,2015-08-10
+263,data-driven decision making,pwc,0,beginner,120000,4.5,2016-08-24
+264,fundamentals of engineering exam review,georgia institute of technology,1,mixed,49000,4.4,2015-09-29
+265,gender and sexuality: diversity and inclusion in the workplace,university of pittsburgh,1,beginner,14000,4.7,2017-06-21
+266,managerial accounting fundamentals,university of virginia,1,beginner,11000,4.9,2018-03-29
+267,search engine optimization fundamentals,"university of california, davis",1,mixed,47000,4.7,2016-04-01
+268,essentials of global health,yale university,1,mixed,31000,4.9,2016-12-05
+269,international security management,erasmus university rotterdam,1,beginner,2200,4.6,2020-02-17
+270,getting started with aws machine learning,amazon web services,0,intermediate,73000,4.4,2019-09-22
+271,arts and heritage management,università bocconi,1,mixed,15000,4.8,2016-11-18
+272,understanding einstein: the special theory of relativity,stanford university,1,beginner,89000,4.9,2016-09-24
+273,réussir le changement,essec business school,1,mixed,33000,4.4,2016-03-04
+274,equine welfare and management,"university of california, davis",1,beginner,7200,4.9,2018-07-24
+275,international migrations: a global issue,sciences po,1,beginner,11000,4.3,2018-02-21
+276,introduction to web development,"university of california, davis",1,beginner,76000,4.7,2016-09-28
+277,writing and editing: word choice and word order,university of michigan,1,-,0,4.8,2020-05-25
+278,introduction to the digital advertising landscape,university of colorado boulder,1,-,0,4.5,2020-01-14
+279,access controls,(isc)²,0,beginner,2900,4.6,2018-04-19
+280,engineering project management: initiating and planning,rice university,1,beginner,23000,4.8,2017-06-18
+281,kotlin for java developers,jetbrains,0,intermediate,37000,4.5,2018-10-25
+282,mathematics for machine learning: multivariate calculus,imperial college london,1,beginner,51000,4.7,2018-03-12
+283,introduction to git and github,google,0,-,0,4.8,2020-01-22
+284,industrial biotechnology,university of manchester,1,-,0,4.6,2017-07-27
+285,the addicted brain,emory university,1,beginner,130000,4.5,2015-08-09
+286,introducción a la programación en python i: aprendiendo a programar con python,pontificia universidad católica de chile,1,beginner,100000,4.2,2017-07-28
+287,modernizing data lakes and data warehouses with gcp,google cloud,0,intermediate,9100,4.6,2020-01-03
+288,drug discovery,university of california san diego,1,beginner,39000,4.6,2016-10-29
+289,nutrition and lifestyle in pregnancy,ludwig-maximilians-universität münchen (lmu),1,intermediate,35000,4.8,2017-04-15
+290,financial acumen for non-financial managers,university of pennsylvania,1,beginner,10000,4.1,2018-07-17
+291,python and statistics for financial analysis,the hong kong university of science and technology,1,intermediate,41000,4.4,2019-01-08
+292,bugs 101: insect-human interactions,university of alberta,1,beginner,15000,5.0,2019-07-12
+293,autodesk certified professional: revit for architectural design exam prep,autodesk,0,expert,9700,4.8,2020-01-31
+294,"leading for equity, diversity and inclusion in higher education",university of michigan,1,intermediate,5900,4.8,2017-08-18
+295,enterprise architecture,peter the great st. petersburg polytechnic university,1,beginner,2400,4.5,2020-01-10
+296,introduction to spreadsheets and models,university of pennsylvania,1,mixed,76000,3.6,2016-03-12
+297,the arts and science of relationships: understanding human needs,university of toronto,1,beginner,73000,4.4,2017-04-07
+298,essentials in clinical simulations across the health professions,the george washington university,1,intermediate,4100,4.8,2019-07-13
+299,budgeting and scheduling projects,"university of california, irvine",1,mixed,84000,4.8,2015-08-07
+300,machine learning for business professionals,google cloud,0,intermediate,58000,4.6,2019-04-19
+301,introduction to accounting data analytics and visualization,university of illinois at urbana-champaign,1,-,0,4.9,2019-08-28
+302,spanish vocabulary: meeting people,"university of california, davis",1,beginner,71000,4.5,2017-02-19
+303,gestión empresarial exitosa para pymes,pontificia universidad católica de chile,1,-,0,4.9,2015-08-12
+304,public policy challenges of the 21st century,university of virginia,1,beginner,52000,4.6,2015-08-12
+305,international law in action: the arbitration of international disputes,universiteit leiden,0,mixed,19000,4.9,2018-02-08
+306,introduction to ancient egypt and its civilization,university of pennsylvania,1,-,0,4.6,2016-11-01
+307,financing and investing in infrastructure,università bocconi,1,mixed,24000,4.8,2016-07-12
+308,global environmental management,technical university of denmark (dtu),1,intermediate,22000,4.7,2016-10-13
+309,operations analytics,university of pennsylvania,1,mixed,80000,4.7,2015-11-02
+310,entrepreneurship strategy: from ideation to exit,hec paris,1,beginner,20000,1.0,2019-05-01
+311,fintech law and policy,duke university,1,beginner,9700,4.8,2018-08-06
+312,the social context of mental health and illness,university of toronto,1,mixed,19000,4.6,2016-10-01
+313,what is contemporary art?,the museum of modern art,0,beginner,120000,4.8,2019-12-12
+314,the art of music production,berklee college of music,1,intermediate,47000,4.8,2016-06-05
+315,biohacking your brain's health,emory university,1,beginner,35000,4.7,2018-08-19
+316,bayesian statistics: from concept to data analysis,"university of california, santa cruz",1,intermediate,91000,4.4,2016-07-07
+317,reporting extra-financier et stratégie rse,essec business school,1,beginner,5200,4.6,2017-07-01
+318,leading healthcare quality and safety,the george washington university,1,beginner,16000,4.8,2016-07-06
+319,understanding international relations theory,national research university higher school of economics,1,-,0,4.7,2018-03-16
+320,introduction to data analytics,ibm,0,-,0,4.8,2020-09-18
+321,fundamentos de excel para negocios,universidad austral,1,beginner,150000,4.8,2016-09-26
+322,elastic google cloud infrastructure: scaling and automation,google cloud,0,intermediate,57000,4.6,2017-07-14
+323,cultural competence - aboriginal sydney,the university of sydney,1,-,0,4.5,2017-05-10
+324,fundamentos de finanzas empresariales,universidad de los andes,1,beginner,110000,4.9,2015-10-22
+325,greening the economy: sustainable cities,lund university,1,beginner,56000,4.6,2016-01-22
+326,introduction to engineering mechanics,georgia institute of technology,1,mixed,150000,4.8,2015-08-14
+327,design-led strategy: design thinking for business strategy and entrepreneurship,the university of sydney,1,intermediate,19000,4.7,2018-06-12
+328,biology meets programming: bioinformatics for beginners,university of california san diego,1,beginner,88000,4.2,2016-03-29
+329,understanding medical research: your facebook friend is wrong,yale university,1,beginner,24000,4.9,2020-04-29
+330,health behavior change: from evidence to action,yale university,1,-,0,4.9,2020-04-22
+331,ordered data structures,university of illinois at urbana-champaign,1,-,0,4.7,2019-04-07
+332,mindshift: break through obstacles to learning and discover your hidden potential,mcmaster university,1,beginner,230000,4.9,2017-04-13
+333,programming fundamentals,duke university,1,beginner,19000,4.7,2017-11-28
+334,understanding financial markets,university of geneva,1,-,0,4.7,2016-02-13
+335,in the studio: postwar abstract painting,the museum of modern art,0,beginner,79000,4.9,2017-03-23
+336,drug commercialization,university of california san diego,1,beginner,17000,4.6,2017-01-01
+337,introduction to software product management,university of alberta,1,-,0,4.6,2015-10-05
+338,"social norms, social change i",unicef,0,-,0,4.6,2016-06-23
+339,excel skills for business: intermediate ii,macquarie university,1,intermediate,39000,4.7,2017-11-01
+340,aboriginal worldviews and education,university of toronto,1,mixed,6600,4.6,2017-03-22
+341,"information systems auditing, controls and assurance",the hong kong university of science and technology,1,-,0,4.7,2020-02-09
+342,six sigma principles,university system of georgia,1,-,0,4.6,2017-07-24
+343,business writing,university of colorado boulder,1,beginner,48000,4.8,2016-08-07
+344,autodesk certified professional: autocad for design and drafting exam prep,autodesk,0,expert,22000,4.7,2019-12-27
+345,introduction to typography,california institute of the arts,1,beginner,72000,4.8,2016-03-14
+346,customer segmentation and prospecting,northwestern university,1,beginner,18000,4.8,2018-06-18
+347,claves para gestionar personas,iese business school,1,-,0,4.9,2016-04-04
+348,english for journalism,university of pennsylvania,1,mixed,130000,4.8,2016-08-15
+349,how things work: an introduction to physics,university of virginia,1,intermediate,170000,4.9,2015-08-08
+350,business english: networking,university of washington,1,intermediate,77000,4.9,2016-02-10
+351,summary statistics in public health,johns hopkins university,1,beginner,11000,4.8,2019-01-23
+352,global energy and climate policy,university of london,1,-,0,4.7,2017-07-03
+353,el abogado del futuro: legaltech y la transformación digital del derecho,universidad austral,1,beginner,1500,5.0,2020-05-14
+354,probability and statistics: to p or not to p?,university of london,1,beginner,36000,4.7,2018-09-03
+355,gut check: exploring your microbiome,university of colorado boulder,1,-,0,4.8,2015-08-09
+356,econometrics: methods and applications,erasmus university rotterdam,1,mixed,110000,4.5,2015-11-03
+357,разработка веб-сервисов на go - основы языка,moscow institute of physics and technology,1,-,0,4.7,2017-12-30
+358,mastering data analysis in excel,duke university,1,mixed,280000,3.8,2015-10-17
+359,basic statistics,university of amsterdam,1,beginner,180000,4.6,2016-01-05
+360,"capstone: retrieving, processing, and visualizing data with python",university of michigan,1,mixed,82000,4.5,2016-04-06
+361,design thinking for the greater good: innovation in the social sector,university of virginia,1,beginner,17000,4.6,2017-12-06
+362,introduction to portfolio construction and analysis with python,edhec business school,1,mixed,11000,4.7,2019-10-20
+363,data analytics for lean six sigma,university of amsterdam,1,beginner,24000,4.9,2017-02-24
+364,refugees in the 21st century,university of london,1,-,0,4.8,2020-02-14
+365,building containerized applications on aws,amazon web services,0,-,0,4.4,2020-05-15
+366,business transformation with google cloud,google cloud,0,beginner,10000,4.8,2019-04-20
+367,version control with git,atlassian,0,mixed,40000,4.7,2018-02-02
+368,"transmedia storytelling: narrative worlds, emerging technologies, and global audiences",unsw sydney (the university of new south wales),1,mixed,45000,4.7,2016-10-28
+369,excel aplicado a los negocios (nivel avanzado),universidad austral,1,-,0,4.7,2017-11-16
+370,introduction to public speaking,university of washington,1,-,0,4.8,2016-11-08
+371,building conversational experiences with dialogflow,google cloud,0,beginner,22000,4.2,2018-12-26
+372,guitar for beginners,berklee college of music,1,mixed,210000,4.8,2015-08-10
+373,managing project risks and changes,"university of california, irvine",1,mixed,71000,4.8,2015-08-17
+374,l'excellence opérationnelle en pratique,essec business school,1,beginner,8000,4.7,2018-07-06
+375,introduction to cloud computing,ibm,0,beginner,2600,4.9,2020-04-25
+376,sample-based learning methods,alberta machine intelligence institute,1,-,0,4.5,2019-09-03
+377,functional programming principles in scala,école polytechnique fédérale de lausanne,1,intermediate,170000,4.7,2016-05-24
+378,introduction to blockchain technologies,insead,1,beginner,16000,4.7,2019-03-26
+379,introduction to environmental law and policy,the university of north carolina at chapel hill,1,mixed,34000,4.9,2015-08-17
+380,"cameras, exposure, and photography",michigan state university,1,mixed,130000,4.7,2016-02-11
+381,democracia y decisiones públicas. introducción al análisis de políticas públicas,universitat autònoma de barcelona,0,beginner,44000,4.9,2015-10-21
+382,dentistry 101,university of michigan,1,beginner,4500,4.8,2019-03-22
+383,"python functions, files, and dictionaries",university of michigan,1,beginner,26000,4.8,2018-12-24
+384,anticorrupción: introducción a conceptos y perspectiva práctica,universidad nacional autónoma de méxico,1,beginner,11000,4.9,2019-09-03
+385,positive psychology: applications and interventions,university of pennsylvania,1,beginner,23000,4.9,2017-04-13
+386,introduction to embedded systems software and development environments,university of colorado boulder,1,intermediate,41000,4.3,2017-05-31
+387,personal & family financial planning,university of florida,1,-,0,4.6,2016-08-08
+388,a law student's toolkit,yale university,1,mixed,91000,4.7,2015-11-10
+389,introducción a data science: programación estadística con r,universidad nacional autónoma de méxico,1,beginner,140000,4.7,2016-03-02
+390,"cybersecurity roles, processes & operating system security",ibm,0,-,0,4.5,2019-07-19
+391,computational neuroscience,university of washington,1,-,0,4.6,2016-10-03
+392,smart cities – management of smart urban infrastructures,école polytechnique fédérale de lausanne,1,beginner,22000,4.6,2017-02-28
+393,getting started with go,"university of california, irvine",1,intermediate,59000,4.4,2018-09-18
+394,introduction to economic theories,erasmus university rotterdam,1,-,0,4.1,2017-08-16
+395,the power of microeconomics: economic principles in the real world,"university of california, irvine",1,mixed,120000,4.7,2015-08-14
+396,introduction to personal branding,university of virginia,1,beginner,140000,4.5,2015-11-09
+397,love as a force for social justice,stanford university,1,beginner,14000,4.6,2017-10-02
+398,mathematical thinking in computer science,university of california san diego,1,-,0,4.3,2017-09-18
+399,introduction to genetics and evolution,duke university,1,mixed,74000,4.8,2015-11-29
+400,основы программирования на python,national research university higher school of economics,1,beginner,83000,4.2,2017-05-26
+401,improving communication skills,university of pennsylvania,1,-,0,4.7,2017-04-15
+402,"introduction to trading, machine learning & gcp",new york institute of finance,1,intermediate,13000,3.4,2019-12-20
+403,python programming: a concise introduction,wesleyan university,1,-,0,4.6,2016-09-18
+404,"the modern world, part two: global history since 1910",university of virginia,1,beginner,47000,4.9,2015-09-02
+405,understanding plants - part i: what a plant knows,tel aviv university,1,beginner,49000,4.8,2016-09-15
+406,excel fundamentals for data analysis,macquarie university,1,-,0,4.6,2020-06-21
+407,finanzas personales,universidad nacional autónoma de méxico,1,mixed,310000,4.8,2015-08-07
+408,english composition i,duke university,1,beginner,200000,4.5,2016-05-26
+409,career 911: your future job in medicine and healthcare,northwestern university,1,-,0,4.3,2016-08-11
+410,introduction to self-driving cars,university of toronto,1,expert,39000,4.7,2019-02-04
+411,corporate & commercial law i: contracts & employment law,university of illinois at urbana-champaign,1,intermediate,10000,4.8,2018-07-04
+412,blockchain basics,university at buffalo,1,-,0,4.5,2018-06-01
+413,foundations of business strategy,university of virginia,1,beginner,63000,4.8,2015-09-29
+414,introdução à ciência da computação com python parte 1,universidade de são paulo,1,beginner,120000,4.8,2016-11-17
+415,stochastic processes,national research university higher school of economics,1,-,0,4.2,2018-05-02
+416,foundations for big data analysis with sql,cloudera,0,-,0,4.8,2019-06-29
+417,"innovation through design: think, make, break, repeat",the university of sydney,1,beginner,10000,4.7,2018-07-11
+418,perfect tenses and modals,"university of california, irvine",1,intermediate,79000,4.8,2016-06-19
+419,getting started with azure,learnquest,0,-,0,4.2,2020-04-20
+420,moralities of everyday life,yale university,1,-,0,4.8,2016-07-25
+421,revisão sistemática e meta-análise,universidade estadual de campinas,1,intermediate,17000,4.9,2020-04-04
+422,understanding child development: from synapse to society,utrecht university,1,-,0,4.6,2017-08-18
+423,introduction to g suite,google cloud,0,-,0,4.6,2019-07-26
+424,aprendiendo a aprender: poderosas herramientas mentales con las que podrás dominar temas difíciles (learning how to learn),university of california san diego,1,beginner,180000,4.9,2016-02-05
+425,building batch data pipelines on gcp,google cloud,0,intermediate,7300,4.4,2020-01-14
+426,financial planning for young adults,university of illinois at urbana-champaign,1,-,0,4.3,2017-02-08
+427,quantitative methods,university of amsterdam,1,mixed,69000,4.8,2015-09-02
+428,"introduction to self-determination theory: an approach to motivation, development and wellness",university of rochester,1,-,0,4.9,2019-03-13
+429,the technology of music production,berklee college of music,1,beginner,28000,4.9,2016-07-12
+430,code yourself! an introduction to programming,the university of edinburgh,1,beginner,120000,4.8,2015-08-13
+431,success,university of pennsylvania,1,beginner,38000,4.9,2016-09-11
+432,chemicals and health,johns hopkins university,1,beginner,23000,4.9,2016-07-09
+433,improving your statistical inferences,eindhoven university of technology,1,-,0,4.9,2016-10-17
+434,fundamentals of finance,university of pennsylvania,1,-,0,3.9,2020-05-25
+435,how google does machine learning,google cloud,0,-,0,4.5,2018-03-03
+436,object-oriented design,university of alberta,1,intermediate,33000,4.6,2017-09-22
+437,introduction to intellectual property,university of pennsylvania,1,beginner,6000,4.8,2019-07-02
+438,cost and economics in pricing strategy,bcg,0,-,0,4.8,2017-04-24
+439,write a feature length screenplay for film or television,michigan state university,1,beginner,12000,4.7,2020-04-15
+440,marketing gerencial,universidad de chile,1,intermediate,49000,4.7,2016-10-10
+441,corporate finance essentials,iese business school,1,mixed,56000,4.9,2016-02-08
+442,information security: context and introduction,"royal holloway, university of london",1,beginner,32000,4.7,2017-02-15
+443,"anatomy of the chest, abdomen, and pelvis",yale university,1,intermediate,36000,4.8,2018-02-28
+444,introduction to css3,university of michigan,1,mixed,84000,4.8,2015-10-19
+445,applied data science capstone,ibm,0,intermediate,42000,4.5,2018-09-07
+446,introduction aux droits de l’homme,university of geneva,1,mixed,46000,4.9,2016-03-24
+447,"programming languages, part a",university of washington,1,-,0,4.9,2016-08-09
+448,big history: connecting knowledge,macquarie university,1,-,0,4.8,2015-10-13
+449,leadership in 21st century organizations,copenhagen business school,1,mixed,34000,4.8,2015-10-03
+450,software processes and agile practices,university of alberta,1,mixed,60000,4.7,2015-10-28
+451,devops culture and mindset,"university of california, davis",1,-,0,4.8,2018-12-31
+452,introduction to statistics & data analysis in public health,imperial college london,1,beginner,12000,4.7,2019-02-28
+453,discrete optimization,the university of melbourne,1,intermediate,40000,4.8,2016-10-16
+454,основы разработки на c++: белый пояс,moscow institute of physics and technology,1,-,0,4.8,2017-06-06
+455,covid-19 contact tracing for nursing professionals,university of houston,1,-,0,3.9,2020-08-23
+456,high stakes leadership: leading in times of crisis,university of michigan,1,-,0,4.8,2020-06-20
+457,essential epidemiologic tools for public health practice,johns hopkins university,1,beginner,14000,4.7,2020-01-13
+458,epigenetic control of gene expression,the university of melbourne,1,mixed,35000,1.0,2016-03-22
+459,"recruiting, hiring, and onboarding employees",university of minnesota,1,mixed,35000,3.8,2016-03-30
+460,aws fundamentals: addressing security risk,amazon web services,0,beginner,11000,4.2,2019-08-08
+461,ancient philosophy: plato & his predecessors,university of pennsylvania,1,-,0,4.1,2016-03-08
+462,becoming a changemaker: introduction to social innovation,university of cape town,1,beginner,61000,4.3,2016-09-26
+463,spanish for successful communication in healthcare settings,rice university,1,-,0,4.0,2019-04-23
+464,leading transformations: manage change,macquarie university,1,-,0,4.3,2019-10-30
+465,introduction to systems engineering,unsw sydney (the university of new south wales),1,mixed,33000,4.8,2016-04-26
+466,bayesian statistics: techniques and models,"university of california, santa cruz",1,intermediate,29000,4.8,2017-06-07
+467,human rights for open societies,utrecht university,1,-,0,4.8,2016-12-13
+468,introduction to computers and office productivity software,the hong kong university of science and technology,1,-,0,4.6,2020-07-20
+469,the introduction to quantum computing,saint petersburg state university,1,-,0,3.3,2019-03-05
+470,intercultural management,escp business school,1,beginner,6500,4.3,2017-05-23
+471,get interactive: practical teaching with technology,university of london,1,-,0,4.8,2017-05-19
+472,global financial markets and instruments,rice university,1,mixed,37000,4.3,2016-10-20
+473,write your first novel,michigan state university,1,beginner,18000,3.9,2020-03-02
+474,développement psychologique de l'enfant,university of geneva,1,-,0,5.0,2019-10-05
+475,songwriting: writing the lyrics,berklee college of music,1,beginner,68000,4.7,2016-08-09
+476,"applied plotting, charting & data representation in python",university of michigan,1,intermediate,97000,4.4,2017-03-17
+477,systems thinking in public health,johns hopkins university,1,mixed,33000,4.4,2016-03-07
+478,excel skills for business: advanced,macquarie university,1,intermediate,39000,4.7,2018-01-04
+479,introduction to neuroeconomics: how the brain makes decisions,national research university higher school of economics,1,-,0,4.6,2015-10-21
+480,community organizing for social justice,university of michigan,1,-,0,4.2,2020-04-25
+481,build a modern computer from first principles: nand to tetris part ii (project-centered course),hebrew university of jerusalem,1,-,0,5.0,2017-02-02
+482,the global financial crisis,yale university,1,mixed,84000,4.8,2015-11-13
+483,agile и scrum в работе над проектами и продуктами,e-learning development fund,0,-,0,4.7,2019-02-19
+484,renewable energy and green building entrepreneurship,duke university,1,beginner,24000,4.8,2017-07-04
+485,the cycle: management of successful arts and cultural organizations,"university of maryland, college park",1,beginner,11000,4.9,2017-01-08
+486,privacy law and data protection,university of pennsylvania,1,-,0,4.8,2019-04-18
+487,building modern python applications on aws,amazon web services,0,-,0,5.0,2020-10-01
+488,digital business models,lund university,1,beginner,21000,4.6,2017-01-15
+489,"everyday excel, part 2",university of colorado boulder,1,-,0,5.0,2020-05-12
+490,reliable google cloud infrastructure: design and process,google cloud,0,-,0,4.7,2017-12-17
+491,introduction to computer programming,university of london,1,-,0,3.9,2018-10-04
+492,"big data essentials: hdfs, mapreduce and spark rdd",yandex,0,-,0,3.4,2017-10-18
+493,dermatology: trip to skin,novosibirsk state university,1,beginner,8200,4.0,2019-05-13
+494,sustainable tourism – promoting environmental public health,university of copenhagen,1,beginner,9400,4.6,2018-02-17
+495,population health during a pandemic: contact tracing and beyond,university of houston,1,-,0,4.8,2020-06-29
+496,social impact strategy: tools for entrepreneurs and innovators,university of pennsylvania,1,-,0,4.9,2016-10-09
+497,c for everyone: programming fundamentals,"university of california, santa cruz",1,beginner,31000,4.6,2019-11-10
+498,introduction to structured query language (sql),university of michigan,1,-,0,4.8,2017-10-25
+499,social and economic networks:  models and analysis,stanford university,1,expert,42000,1.0,2018-10-27
+500,the truth about cats and dogs,the university of edinburgh,1,mixed,33000,4.8,2017-04-23
+501,sports and society,duke university,1,mixed,16000,4.9,2016-01-21
+502,fundamentals of scalable data science,ibm,0,-,0,4.0,2017-02-10
+503,effective compliance programs,university of pennsylvania,1,mixed,3400,4.9,2019-04-13
+504,transformation of the global food system,university of copenhagen,1,-,0,4.8,2020-05-18
+505,web application technologies and django,university of michigan,1,-,0,4.8,2020-07-21
+506,curanderismo: traditional healing using plants,university of new mexico,1,beginner,5500,1.0,2019-10-02
+507,applied machine learning in python,university of michigan,1,intermediate,150000,4.5,2017-06-01
+508,troubleshooting and debugging techniques,google,0,-,0,4.3,2020-01-21
+509,introduction to c# programming and unity,university of colorado system,1,-,0,4.7,2018-01-26
+510,"corrección, estilo y  variaciones de la lengua española",universitat autònoma de barcelona,0,beginner,75000,4.7,2016-01-19
+511,les fondamentaux de la négociation,essec business school,1,beginner,10000,4.9,2018-07-11
+512,the science of success: what researchers know that you should know,university of michigan,1,beginner,59000,4.8,2017-04-13
+513,finance for non-financial managers,emory university,1,intermediate,12000,4.1,2017-02-10
+514,getting started with music theory,michigan state university,1,beginner,59000,4.1,2017-02-03
+515,the horse course: introduction to basic care and management,university of florida,1,mixed,29000,5.0,2015-12-23
+516,verb tenses and passives,"university of california, irvine",1,-,0,4.7,2016-10-06
+517,gestión de organizaciones efectivas,pontificia universidad católica de chile,1,mixed,47000,4.8,2015-10-07
+518,introduction to big data,university of california san diego,1,mixed,160000,4.6,2016-06-15
+519,rédaction de contrats,university of geneva,1,-,0,4.8,2016-04-09
+520,philosophy and the sciences: introduction to the philosophy of cognitive sciences,the university of edinburgh,1,-,0,4.7,2016-09-19
+521,schizophrenia,wesleyan university,1,-,0,4.7,2017-10-20
+522,ecology: ecosystem dynamics and conservation,howard hughes medical institute,1,-,0,4.8,2018-04-17
+523,introduction to game development,michigan state university,1,mixed,79000,4.8,2015-09-07
+524,practical time series analysis,the state university of new york,1,intermediate,39000,4.5,2018-01-16
+525,vlsi cad part i: logic,university of illinois at urbana-champaign,1,-,0,4.7,2017-07-16
+526,getting started with google kubernetes engine,google cloud,0,intermediate,75000,4.2,2017-11-27
+527,exploring ​and ​preparing ​your ​data with bigquery,google cloud,0,-,0,4.5,2017-11-09
+528,six sigma and the organization (advanced),university system of georgia,1,intermediate,15000,4.7,2017-09-11
+529,social work practice: advocating social justice and change,university of michigan,1,-,0,4.8,2020-09-10
+530,introduction to machine learning,duke university,1,-,0,4.7,2018-09-19
+531,entrepreneurship 2: launching your start-up,university of pennsylvania,1,mixed,38000,4.8,2016-03-17
+532,nanotechnology: a maker’s course,duke university,1,mixed,21000,4.8,2017-10-13
+533,creative problem solving,university of minnesota,1,mixed,140000,4.5,2015-10-11
+534,"sleep: neurobiology, medicine, and society",university of michigan,1,beginner,20000,4.8,2017-12-10
+535,covid-19: what you need to know (cme eligible),osmosis,0,beginner,32000,4.8,2020-03-27
+536,classical sociological theory,university of amsterdam,1,mixed,51000,4.9,2015-08-17
+537,electric industry operations and markets,duke university,1,beginner,12000,4.8,2017-07-14
+538,preparing for the google cloud professional cloud architect exam,google cloud,0,-,0,4.5,2019-01-10
+539,effective business presentations with powerpoint,pwc,0,-,0,4.6,2017-03-29
+540,more introduction to financial accounting,university of pennsylvania,1,mixed,40000,4.9,2016-02-13
+541,cryptocurrency and blockchain: an introduction to digital currencies,university of pennsylvania,1,-,0,4.5,2019-06-16
+542,think again i: how to understand arguments,duke university,1,beginner,200000,4.6,2016-08-08
+543,developing your musicianship,berklee college of music,1,mixed,41000,4.9,2016-05-30
+544,developing your musicianship,berklee college of music,1,beginner,54000,4.9,2016-05-30
+545,introduction to operations management,university of pennsylvania,1,mixed,87000,4.3,2015-12-02
+546,the oral cavity: portal to health and disease,university of pennsylvania,1,intermediate,9400,4.9,2017-09-27
+547,preparing for the google cloud associate cloud engineer exam,google cloud,0,beginner,22000,4.6,2019-06-19
+548,fundamental neuroscience for neuroimaging,johns hopkins university,1,beginner,30000,4.6,2017-11-29
+549,european business law: understanding the fundamentals,lund university,1,-,0,4.7,2016-01-16
+550,teach english now! teaching language online,arizona state university,1,intermediate,8500,4.6,2019-05-30
+551,front-end web development with react,the hong kong university of science and technology,1,intermediate,45000,4.6,2018-06-14
+552,music business foundations,berklee college of music,1,mixed,34000,4.9,2015-09-17
+553,introduction to business analytics: communicating with data,university of illinois at urbana-champaign,1,intermediate,14000,4.6,2018-12-11
+554,machine learning foundations: a case study approach,university of washington,1,mixed,240000,4.5,2015-09-23
+555,accounting analytics,university of pennsylvania,1,mixed,80000,4.4,2016-01-05
+556,strategic business management - microeconomics,"university of california, irvine",1,beginner,9500,4.8,2018-01-24
+557,"epidemics, pandemics and outbreaks",university of pittsburgh,1,mixed,23000,4.7,2015-09-26
+558,roman architecture,yale university,1,beginner,30000,4.8,2017-04-12
+559,research data management and sharing,the university of edinburgh,1,mixed,16000,4.7,2016-03-01
+560,introduction to genomic technologies,johns hopkins university,1,mixed,42000,4.5,2016-01-27
+561,strategic management,copenhagen business school,1,mixed,58000,4.8,2015-09-04
+562,cybersecurity compliance framework & system administration,ibm,0,-,0,4.5,2019-11-07
+563,legal tech & startups,ie business school,1,intermediate,7200,4.0,2017-09-22
+564,introduction to chemistry:  reactions and ratios,duke university,1,beginner,46000,4.8,2016-08-29
+565,the science of stem cells,american museum of natural history,0,intermediate,12000,4.7,2018-05-07
+566,the business of product management i,advancing women in product,0,-,0,4.3,2020-09-15
+567,positive psychology: resilience skills,university of pennsylvania,1,beginner,40000,4.9,2017-04-23
+568,ai for medical prognosis,deeplearning.ai,0,intermediate,4000,4.7,2020-04-19
+569,antibiotic stewardship,stanford university,1,expert,11000,4.2,2018-09-15
+570,ux / ui: fundamentos para o design de interface,universidade de são paulo,1,-,0,4.3,2018-04-04
+571,emt foundations,university of colorado system,1,beginner,7100,4.8,2019-01-24
+572,industrial iot on google cloud platform,google cloud,0,beginner,34000,4.5,2019-02-03
+573,"penetration testing, incident response and forensics",ibm,0,-,0,4.5,2020-06-13
+574,database management essentials,university of colorado system,1,-,0,4.5,2015-09-23
+575,advertising and society,duke university,1,mixed,14000,4.8,2016-11-04
+576,everyday chinese medicine,the chinese university of hong kong,1,-,0,4.7,2017-09-26
+577,fundamentals of machine learning for healthcare,stanford university,1,-,0,4.8,2020-09-09
+578,new approaches to countering terror: countering violent extremism,"university of maryland, college park",1,beginner,12000,4.8,2020-01-21
+579,magic in the middle ages,universitat de barcelona,0,beginner,78000,4.6,2016-08-07
+580,challenging forensic science: how science should speak to court,university of lausanne,1,beginner,31000,4.8,2019-01-02
+581,exploring renewable energy schemes,university of pennsylvania,1,-,0,4.8,2020-01-26
+582,paleontology: theropod dinosaurs and the origin of birds,university of alberta,1,-,0,4.9,2016-01-30
+583,corporate strategy,ucl school of management,1,beginner,7800,4.9,2017-12-29
+584,getting started with essay writing,"university of california, irvine",1,-,0,4.7,2015-10-20
+585,actualización en el manejo del paciente con diabetes mellitus tipo 2,universidad nacional autónoma de méxico,1,mixed,23000,4.9,2019-02-05
+586,mastering final cut pro,learnquest,0,beginner,8400,4.5,2020-02-25
+587,removing barriers to change,university of pennsylvania,1,-,0,5.0,2020-07-26
+588,tricky american english pronunciation,"university of california, irvine",1,beginner,110000,4.7,2017-04-01
+589,managing an agile team,university of virginia,1,-,0,4.7,2016-05-01
+590,international law in action: a guide to the international courts and tribunals in the hague,universiteit leiden,0,mixed,36000,4.8,2016-01-20
+591,"competencias laborales: perfiles, evaluación y capacitación.",universidad de chile,1,-,0,4.5,2017-05-04
+592,getting started with tensorflow 2,imperial college london,1,-,0,4.9,2020-04-22
+593,geopolitics of europe,sciences po,1,mixed,19000,3.8,2016-11-06
+594,osteoarchaeology: the truth in our bones,universiteit leiden,0,beginner,22000,4.7,2016-10-08
+595,mathematics for machine learning: pca,imperial college london,1,intermediate,33000,3.5,2018-03-14
+596,object oriented programming in java,university of california san diego,1,-,0,4.7,2015-09-15
+597,embedded software and hardware architecture,university of colorado boulder,1,-,0,4.3,2018-11-18
+598,memoir and personal essay: managing your relationship with the reader,wesleyan university,1,-,0,4.4,2019-01-09
+599,математика и python для анализа данных,moscow institute of physics and technology,1,-,0,4.6,2016-02-09
+600,hacia una práctica constructivista en el aula,pontificia universidad católica de chile,1,mixed,62000,4.9,2015-08-10
+601,hypothesis-driven development,university of virginia,1,-,0,4.6,2016-07-02
+602,accounting data analytics with python,university of illinois at urbana-champaign,1,-,0,3.5,2020-01-11
+603,introduction to molecular spectroscopy,university of manchester,1,-,0,4.6,2017-06-14
+604,managing as a coach,"university of california, davis",1,-,0,4.8,2016-02-12

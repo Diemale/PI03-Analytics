@@ -1,105 +1,62 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+# <h1 align=center><span style="color:blue"> **Análisis de MOOCS** </span></h1>
+
+## **Introducción**
 <p>
+En este proyecto, nos propusimos  realizar un análisis de datos sobre plataformas de creación de cursos educativos de alcance masivo, conocidos como MOOCS, por sus siglas en inglés. Para iniciarlo contábamos con un puñado de pequeños datasets. El proceso tiene como producto final un dashboard que condensa la información conseguida y que sirve de insumo para una demostración del trabajo realizado.
 
-<h1 align='center'>
- <b>PROYECTO INDIVIDUAL Nº3</b>
-</h1>
- 
-# <h1 align="center">**`MOOCs`**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
-<p align='center'>
-<img src = 'https://thumbs.dreamstime.com/b/mooc-massive-open-online-course-learning-vector-219370657.jpg' height = 200>
+ El  proyecto consta de cuatro **Jupyter notebooks** que contienen: primero, un scrapper para buscar información adicional sobre los ratings de Udemy. Segundo, un notebook en el que se realizó la primera fase de análisis exploratorio y transformación de datos. Tercero, un archivo con cuatro nubes de palabras para investigar el contenido de los nombres de los cursos. Cuarto, un archivo que contiene tanto  la segunda fase de EDA y ETL como el código que crea nuestro dashboard. 
+En todas las etapas mencionadas, utilizamos __Python__ como nuestro lenguaje de programación. Además, utilizamos distintas librerías en las diferentes etapas.
+
+    
+
+<hr>  
+
+## **Desarrollo del proyecto**
+
+### ** Web Scraping**
+
+Debido a que la calidad de los datos distaba de ser la mejor, principalmente porque eran datasets de pocos registros y con datos muy heterogéneos, nos vimos en la necesidad de buscar datos en otras fuentes. La heterogeneidad se debió básicamente a que rara vez encontramos el mismo campo para las tres plataformas, lo que representó un gran desafío.
+Por esta razón, utilizando la técnica de Scraping pudimos conseguir datos sobre los ratings de los cursos en Udemy, el código utilizado se encuentra en la primera notebook. Para esta tarea, utilizamos las urls que estaban en los datasets. En cuanto a las librerías, usamos   __BeautifulSoup__ para la conversión de los HTML de las páginas y su posterior procesamiento, también __requests__ para crear las conexiones a las urls. Asimismo, utilizamos una técnica de Scrapping en la segunda notebook. Esta consisitió en conectarse a las url que teníamos de Udemy, notamos que el contenido de las respuestas tenían un valor con patrones diferentes, a veces devolvía el nombre de la url ingresada y otras veces una url diferente con la palabra draft. Al investigar, observamos que las que tenían la palabra clave draft en la url, correspondían a cursos que ya no estaban online. Así que decidimos utilizar esta información en nuestro análislis. En esta ocasión, utilizamos las librerías __httplib2__ 
+para realizar las conexiones y __pprint__ para mejorar las visualizaciones de los retornos.
+
+### **Wordcloud**
+
+Para realizar las nubes de palabras con los nombres de los cursos,  utilizamos la libería __WordCloud__, que torna el trabajo muy sencillo. Simplemente tuvimos que proveerle una cadena y lo hicimos creando una serie de __Pandas__  con todos los títulos de los tres dataframes. Convertimos la serie a una lista, luego a una string gigante y pasamos esta string como parámetro al constructor de WordCloud.
+
+
+### **EDA-ETL**
+
+En el proceso de EDA-ETL tuvimos que homogeneizar un poco los data frames de cada una de las plataformas. Pronto notamos que los datos mostraban dos modelos de negocio diferentes, por lo que decidimos contrastar los datos de Udemy por un lado y los de Coursera junto con Edx, por el otro. Esto además, le dio mucha más flexibilidad al proceso de ingeniería de datos, dado que ya no era imperioso tener una gran cantidad de campos en común para las tres plataformas. En cuanto a lo técnico: en esta etapa realizamos chequeo de datos faltantes, data wrangling, normalizamos tanto los nombres de los campos para que coincidieran con los de los otros data frames, como los valores de los datos de tipo string. Hicimos, además, cambios de tipos de datos, creamos nuevas columnas a través de las existentes, eliminamos valores duplicados, concatenamos data frames, entre otras cosas. En esta etapa, utilizamos Pandas para el tratamiento general de datos, numpy para imputar valores nulos, y seaborn para algunas visualizaciones. 
+
+
+En la segunda parte del análisis exploratorio y la transformación de datos, nos apoyamos en los gráficos de __hvplots__, que fueron usados en combinación con __Panel__ para la creación de widgets que permitieron controlar los gráficos interactivos. La interactividad la logramos a través de dos métodos. El primero consiste en la creación de un pipeline, que incorpora un data frame interactivo, así como todos los métodos y operaciones realizados sobre este  y por último, un widget para controlar los gráficos. El segundo método utilizado fue el uso de funciones que se encargan de procesar los datos y devuelven un objeto hvplot que  luego es tomado por un widgetbox de Panel. Este a su vez, "envuelve" a la función junto a otro widget y los vincula, de manera tal que el widget vinculado a la función controle la interactividad del gráfico. En algunos de los gráficos utilizamos funciones de agregación gracias a __matplotlib__ y __numpy__.
+
+
+### **Creación del dashboard**
 <p>
-
-
-## **Descripción del problema (Contexto y rol a desarrollar)**
-
-### **Contexto**
-
-Los MOOCs (cursos masivos abiertos y online, por sus siglas en inglés) han revolucionado el mundo de la educación desde principios de la década pasada, cuando el profesor Sebastian Thrun comenzó con la transmisión online de su curso introductorio a la Inteligencia Artificial. Poco tiempo después, Thrun fundó Udacity y con el pasar de los años se han ido sumando otras plataformas como edX y Coursera, brindando servicios similares: acceso a contenido específico, de calidad y de manera práctica, desde la comodidad del hogar. Muchas de estas plataformas tienen contenido gratuito mientras que el modelo de negocio en general se basa ya sea en el pago de suscripciones recurrentes para acceso general o únicas, para acceder a certificaciones o a cursos premium.
-Con el aumento de la popularidad de los MOOCs, no solo han aparecido nuevas plataformas privadas como las mencionadas anteriormente, sino que también muchas universidades y organizaciones sin fines de lucro han sumado a la oferta haciendo el mercado mucho más competitivo. En este contexto, resulta imperante para cada plataforma, ajustar sus modelos de negocio, los cursos y el contenido que se ofrece en los mismos para lograr captar y retener a la mayor cantidad de clientes.
-
-### Rol a desarrollar
-
-Nuestra PM se dirigió a nosotros con un nuevo ticket de trabajo. Una startup de tecnología está interesada en sumarse al mercado de cursos online, pero de una manera eficiente, por lo que compró datasets de posibles competidores para analizar y sacar conclusiones de los datos recolectados.
-
-Ellos solicitan segmentar los el nivel de ventas según precio, idioma, nivel y rating de cada curso para analizar qué tanto influyen dichas variables en la demanda del producto vendido.
-
-Por otra parte se nos solicita un WordCloud de las palabras clave que más se repiten dentro del título. (Se puede añadir otras variables de nuestro interés). 
-
-Por último, se nos pide una demo en un rango de tiempo de no más de 10 min donde presentamos las funcionalidades del dashboard y las conclusiones/recomendaciones de nuestra parte.
-
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide **establecer _al menos_ 1 KPI** producto de su análisis y que el mismo se pueda **visualizar** en un dashboard.
-
-
-## **Propuesta de trabajo (indicaciones)**
-
-`Análisis Exploratorio de los datos`(_Exploratory Data Analysis = EDA_):
-Debe incluir un informe en el que explique y justifique el análisis expuesto y los datos utilizados, complementando con las salidas visuales incorporadas en el EDA. El reporte debe presentrase en un notebook (.ipynb) adecuadamente comentado.
-
-`Dashboard`:
-Debe ser funcional y coherente con el análisis y la historia que vayan a relatar.
-
-`Análisis`: :warning:
-No se calificará solamente la producción de gráficos con datos (dashboard), sino también los análisis y conclusiones que encuentren de estos.
-
-`KPIs`:
-Se debe sugerir _al menos_ 1 KPI **bien formulado** y debe aparecer en el dashboard. Tenga en cuenta que debe tener relación con el dataset y la historia que está contando, y debe explicar en la presentación el análisis y la funcionalidad de los KPIs sugeridos.  
-`MUY IMPORTANTE`: repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.</small>
-
-`Repositorio de GitHub`:
-El repositorio debe contener un Readme principal donde se presente de forma general **su proyecto**.
-
-**PLUS**
-<br>
-<sub> Nota: la realización de los siguientes ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo.</sub>
-
-- Redactar un reporte escrito de análisis realizado en base a sus dashboard e incluirlo en el readme de sus repositorios. También debe incluir el análisis y la funcionalidad de los KPIs sugeridos.
-- Cruce de datos con datasets complementarios.
-
-## Fuente de datos:
-- [Datasets proporcionados ](https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H?usp=sharing)
-- Otros datasets de búsqueda propia.
-
-<br>
-
-<h1>Lo que tendremos en cuenta a la hora de evaluar:</h1>
-
-Serás evaluado en dos grandes áreas, ambas con igual peso entre si: `Tech` y `Soft`!
-
-**Las habilidades técnicas (Tech)** para este proyecto de analytics incluyen el tipo de herramientas utilizadas para la realización de dashboard (herramientas de **Business Intelligence** y/o DataViz), elección de **gráficas pertinentes** para la representación del dato y un dashboard **efectivo** (organización, uso de filtros y criterios estéticos y de diagramación (dónde se ubican los filtros y visualizaciones, etc) :nail_care:)
-
-**Las habilidades blandas (Soft)** para este proyecto tendrán en cuenta la **puntualidad y preparacion para la demo**, su **comunicación oral y storytelling**, la forma en que cuentas tu historia (los datos duros que presentas son **útiles** para tu audiencia?) y finalmente (esto es mucho muy importante), :warning:**EL ANÁLISIS**:warning: (¿brindas un contexto?, ¿haces comparaciones con otros datos?, tienes conclusiones interesantes y realizas análisis no triviales?).
-
-<sub>**Spoiler**: Te vamos a dar feedback y también vamos a evaluar tu capacidad de recepción a este :stuck_out_tongue: </sub>
-
-
-## Material de apoyo
-- [Workshop `From Data to Viz & Storytelling`](https://www.students.soyhenry.com/classes/121?cohortId=58&videoOrdinal=1)
-- [Como hacer un EDA](https://medium.com/nerd-for-tech/how-to-do-some-basic-eda-a-guide-for-dummies-d76d9a82242c)
-- [Como ejecutar scripts en power BI](https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-scripts)
-
-- [Pypy: WordCloud](https://pypi.org/project/wordcloud/)
-
-- [Define your KPIs](https://medium.com/swlh/define-your-kpis-1a2072f1435)
-
-## ***Recomendaciones finales***
-
-¡La demo es para reportar su análisis apoyándose en las funcionalidades de sus dashboard, NO tienen que mostrar código!
-
-La **DEMO**, donde defenderán el proyecto, se realizará el día jueves o viernes. Estar atentos a *Slack* y  *calendar* para ver qué día y horario les corresponde. Tendrán 10 minutos para exponer su análisis, luego de lo cual, habrá una devolución del corrector asignado. 
-Es importante que sepan gestionar bien su tiempo y tengan un speech ya preparado, acorde al tiempo disponible.
- 
-Recordamos que sean puntuales y prueben el correcto funcionamiento de las herramientas empleadas **antes** de ingresar a la meet.
+Para la creación del Dashboard utilizamos el template bootstrap de Panel, que permite realizar el layout de los gráficos de una manera bastante amena y estética. Este template tiene, básicamente, dos zonas, una sidebar y una zona principal, en la primera pueden disponerse descripciones y widgets controladores de la dinámica de los gráficos. En la segunda se situán los gráficos o widgets contenedores de gráficos. La disposición de esta zona está dada por filas y columnas que se crean desde el código de la persona que realiza el dashboard. Dentro de estas filas y columnas se pueden ubicar los objetos que deseemos. 
+</p>
 
 
 
-## Disclaimer
-De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad. No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
-  
-  
-<p align='center'>
-<img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
-<p>
+## **Puntos a mejorar en este proyecto**
+
+Los siguientes son algunos puntos que mejorarían el proyecto:
+
+1) Obtener más información a través del scraping de las páginas web para homogeneizar más la data. 
+
+2) Crear un KPI de crecimiento de cursos por mes, en lugar del de crecimiento interanual que creamos
+
+3) A partir de la nueva información crear nuevos gráficos para el dashboard.
+
+
+
+
+## Sitios con información sobre este proyecto
+
+[github del proyecto](https://github.com/Diemale/PI03-Analytics)
+
+[Archivo csv con reviews de Coursera de 252 MB que no puede ser subido a github:](https://drive.google.com/drive/u/1/folders/1f_ehX_AOb8xeWBvADp4XD0Egaarq9XQO)
+
+
