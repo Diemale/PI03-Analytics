@@ -22,20 +22,20 @@ para realizar las conexiones y __pprint__ para mejorar las visualizaciones de lo
 
 ### **Wordcloud**
 
-Para realizar las nubes de palabras con los nombres de los cursos,  utilizamos la libería __WordCloud__, que torna el trabajo muy sencillo. Simplemente tuvimos que proveerle una cadena y lo hicimos creando una serie de __Pandas__  con todos los títulos de los tres dataframes. Convertimos la serie a una lista, luego a una string gigante y pasamos esta string como parámetro al constructor de WordCloud.
+Para realizar las nubes de palabras con los nombres de los cursos,  utilizamos la libería __WordCloud__, que torna el trabajo muy sencillo. Simplemente tuvimos que proveerle una cadena y lo hicimos creando una serie de __Pandas__  con todos los títulos de los tres dataframes. Convertimos la serie a una lista, luego a una string y pasamos esta string como parámetro al constructor de WordCloud.
 
 
 ### **EDA-ETL**
 
-En el proceso de EDA-ETL tuvimos que homogeneizar un poco los data frames de cada una de las plataformas. Pronto notamos que los datos mostraban dos modelos de negocio diferentes, por lo que decidimos contrastar los datos de Udemy por un lado y los de Coursera junto con Edx, por el otro. Esto además, le dio mucha más flexibilidad al proceso de ingeniería de datos, dado que ya no era imperioso tener una gran cantidad de campos en común para las tres plataformas. En cuanto a lo técnico: en esta etapa realizamos chequeo de datos faltantes, data wrangling, normalizamos tanto los nombres de los campos para que coincidieran con los de los otros data frames, como los valores de los datos de tipo string. Hicimos, además, cambios de tipos de datos, creamos nuevas columnas a través de las existentes, eliminamos valores duplicados, concatenamos data frames, entre otras cosas. En esta etapa, utilizamos Pandas para el tratamiento general de datos, numpy para imputar valores nulos, y seaborn para algunas visualizaciones. 
+En el proceso de EDA-ETL tuvimos que homogeneizar los data frames de cada una de las plataformas. Pronto notamos que los datos mostraban dos modelos de negocio diferentes, por lo que decidimos contrastar los datos de Udemy por un lado y los de Coursera junto con Edx, por el otro. Esto además, le dio mucha más flexibilidad al proceso de ingeniería de datos, dado que ya no era imperioso tener una gran cantidad de campos en común para las tres plataformas. En cuanto a lo técnico: en esta etapa realizamos chequeo de datos faltantes, data wrangling, normalizamos tanto los nombres de los campos para que coincidieran con los de los otros data frames, como los valores de los datos de tipo string. Hicimos, además, cambios de tipos de datos, creamos nuevas columnas a través de las existentes, eliminamos valores duplicados, concatenamos data frames, entre otras cosas. En esta etapa, utilizamos Pandas para el tratamiento general de datos, numpy para imputar valores nulos, y seaborn para algunas visualizaciones. 
 
 
-En la segunda parte del análisis exploratorio y la transformación de datos, nos apoyamos en los gráficos de __hvplots__, que fueron usados en combinación con __Panel__ para la creación de widgets que permitieron controlar los gráficos interactivos. La interactividad la logramos a través de dos métodos. El primero consiste en la creación de un pipeline, que incorpora un data frame interactivo, así como todos los métodos y operaciones realizados sobre este  y por último, un widget para controlar los gráficos. El segundo método utilizado fue el uso de funciones que se encargan de procesar los datos y devuelven un objeto hvplot que  luego es tomado por un widgetbox de Panel. Este a su vez, "envuelve" a la función junto a otro widget y los vincula, de manera tal que el widget vinculado a la función controle la interactividad del gráfico. En algunos de los gráficos utilizamos funciones de agregación gracias a __matplotlib__ y __numpy__.
+En la segunda parte del análisis exploratorio y la transformación de datos, nos apoyamos en los gráficos de __hvplots__, que fueron usados en combinación con __Panel__ para la creación de widgets que permitieron controlar los gráficos interactivos. La interactividad la logramos a través de dos métodos. El primero consiste en la creación de un pipeline, que incorpora primero, un data frame interactivo así como todos los métodos y operaciones realizados sobre este  y segundo, un widget para controlar los gráficos. El otro método utilizado fue el uso de funciones que se encargan de procesar los datos y devuelven un objeto hvplot que  luego es tomado por un widgetbox de Panel. Este a su vez, "envuelve" a la función junto a otro widget y los vincula, de manera tal que el widget vinculado a la función controle la interactividad del gráfico. En algunos de los gráficos utilizamos funciones de agregación gracias a __matplotlib__ y __numpy__.
 
 
 ### **Creación del dashboard**
 <p>
-Para la creación del Dashboard utilizamos el template bootstrap de Panel, que permite realizar el layout de los gráficos de una manera bastante amena y estética. Este template tiene, básicamente, dos zonas, una sidebar y una zona principal, en la primera pueden disponerse descripciones y widgets controladores de la dinámica de los gráficos. En la segunda se situán los gráficos o widgets contenedores de gráficos. La disposición de esta zona está dada por filas y columnas que se crean desde el código de la persona que realiza el dashboard. Dentro de estas filas y columnas se pueden ubicar los objetos que deseemos. 
+Para la creación del Dashboard utilizamos el template bootstrap de Panel, que permite realizar el layout de los gráficos de una manera bastante amena y estética. Este template tiene, básicamente, dos zonas, una sidebar y una zona principal, en la primera pueden disponerse descripciones y widgets controladores de la dinámica de los gráficos. En la segunda se situán los gráficos o widgets contenedores de gráficos. La disposición de esta zona está dada por filas y columnas que se crean a través de código en Python y utilizando la librería Panel. Dentro de estas filas y columnas se pueden ubicar los objetos que deseemos. 
 </p>
 
 
@@ -46,10 +46,11 @@ Los siguientes son algunos puntos que mejorarían el proyecto:
 
 1) Obtener más información a través del scraping de las páginas web para homogeneizar más la data. 
 
-2) Crear un KPI de crecimiento de cursos por mes, en lugar del de crecimiento interanual que creamos
+2) Crear un KPI de crecimiento de cursos por mes, en lugar del interanual que creamos
 
 3) A partir de la nueva información crear nuevos gráficos para el dashboard.
 
+4) El feedback recibido indica que se debe mejorar la estética de los gráficos.
 
 
 
